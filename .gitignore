@@ -14,3 +14,10 @@
 
 # R Environment Variables
 .Renviron
+
+# outputs
+*.bib
+*.pdf
+*.html
+*.png
+*.rtf

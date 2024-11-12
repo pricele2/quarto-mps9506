@@ -22,6 +22,69 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
+# Experience
+
+*Research*
+
+b
+
+c
+
+d
+
+e
+
+*Data Oversight for Vendors and Partners: Audit, Evaluation, and Studies*
+
+f
+
+g
+
+*External Partnerships*
+
+h
+
+i
+
+j
+
+*Analysis, Evaluation, Data Management*  
+
+1
+
+2
+
+3
+
+4
+
+*Technical Skills* 
+
+1
+
+2
+
+3
+
+*Leadership \& Staff Development* 
+
+a
+
+b
+
+c
+
+d
+
+
+# Education
+
+*Texas Association of School Business Officials*, Registered Texas School Business Administrator \hfill 2020 - Present
+
+*Peabody College of Education, Vanderbilt University*, M.P.P. in K-12 Education Policy \hfill May 2014
+
+*College of Arts \& Letters, University of Notre Dame*, B.A. *cum laude* \hfill May 2005
+
 # Employment
 
 *Houston Independent School District*
@@ -52,25 +115,52 @@ Project Manager \& Junior Consultant (Denver, Colorado) \hfill 2007-2008
 
 Fellow \& Junior Grants Officer (Colorado Springs, Colorado) \hfill 2005-2007
 
-# Education
+# Awards \& Invitations
 
-*Texas Association of School Business Officials*, Registered Texas School Business Administrator \hfill 2020 - Present
+Oct 2024. *EDAD 688 Education Policy Series*, Guest Speaker \hfill Texas A\&M
 
-*Peabody College of Education, Vanderbilt University*, M.P.P. in K-12 Education Policy \hfill May 2014
+Apr 2023. *IS595 Competitive Intelligence \& Knowledge Management*, Guest Speaker \hfill Univ. of Illinois
 
-*College of Arts \& Letters, University of Notre Dame*, B.A. *cum laude* \hfill May 2005
+Oct 2021. *Making Performance Pay Pay Off*, Conference Presentation  \hfill Council of Great City Schools
 
-# Awards \& Honors
 
-::: {#refs-peer}
-:::
+Nov 2018. *SOCI 437/537 Sociology of Education*, Guest Speaker \hfill Rice University
 
-# Technical Reports
+May 2015. *Parents, Teachers, and Title I*, Conference Presentation \hfill CRSEA 9th Annual Conference
 
-::: {#refs-other}
-:::
+# Selected Publications
+Price, L., & Cortez, J. (2024, November 8). Technical Documentation, Efficacy of Zearn Math (IES Award R305A230170). https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835
 
+Price, L., Lasode, M., & Powers, K. (2023, December 13). MEMO: FY25 Forecasting Models for Student ADA. 
+
+Lasode, M., Price, L., Abdoli, M., & Hovey, I. (2022, July 7). 2021-2022 Campus Demographic Report. Private URL
+
+Price, L., & Scuello, M. (2022, May). Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.
+
+Price, L. (2022, April 1). Public Comment on WWC Version 5.0 (ID 6op2zxpf4i) [Public Comment]. https://ies.ed.gov/ncee/wwc/
+
+Aulicino, C., & Price, L. (2021, October). Secondary STEM Magnet Programs Study: Year 2. Metis Associates.
+
+Aulicino, C., & Price, Lauren. (2020, September). STEM Magnet Program Study: Year 1. Metis Associates. 
+
+Price, L., Christian, M., & Stevens, C. J. (2018). A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department Of Research And Accountability. 
+
+Price, L., Cramer, E., Milanowski, A., Mader, J., Robertson, D., & Stevens, C. J. (2018). A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department of Research and Accountability.
+
+Price, L., Provencher, S., & Stevens, C. J. (2018). A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department of Research and Accountability. 
+
+Price, L., & Stevens, C. J. (2017). Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness. Houston ISD: Department of Research and Accountability. http://www.houstonisd.org/Page/128655
+
+Price, L., Jordan, S., & Stevens, C. (2016, January). Preferences and Perspectives on Teacher Compensation, 2014-2015. Houston ISD: Department of Research and Accountability.
 
 # References
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher.
+[Isabel Hovey](mailto:isabel.hovey@gmail.com). Director of Accountability, Research, & Compliance \hfill Region IV ESC
+
+[Jorge Martinez](mailto:jxmhtx@icloud.com). Director, Data Science \& Analytics \hfill Houston ISD
+
+[Dr. Allison Matney](mailto:aematney@gmail.com). Former Executive Officer, Assessment Accountability \& Compliance  \hfill Houston ISD 
+
+[Dr. Erin Baumgartner](mailto:erinbaumgartner@rice.edu). Director, Houston Education Research Consortium \hfill Kinder Institute, Rice University
+
+[Marco Heredia](mailto:marco@contigoed.org). Partner, Analytics \hfill Contigo Ed
