@@ -24,17 +24,43 @@ csl: apa-cv.csl
 
 # Employment
 
-*Arthur Guinness & Son*
+*Houston Independent School District*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+CTM, Data Science \& Analytics (Assessment, Accountability \& Compliance) \hfill July 2023 - Present
 
-Researcher (Dublin) \hfill 1899-1935
+Data Scientist / Application Developer (Research \& Accountability) \hfill 2021-2023
+
+Grant Program Manager (Research \& Accountability; School Choice) \hfill 2014-2021
+
+*Peabody College of Education, Vanderbilt University*
+
+Graduate Research Assistant (Nashville, Tennessee) \hfill 2012-2014
+
+*Boys Hope Girls Hope of Colorado* 
+
+Development Director (Denver, Colorado) \hfill 2010-2011
+
+*Community Resource Center*
+
+Consultant \& Trainer (Denver, Colorado) \hfill 2008-2010
+
+*Robert B. Sharp Company*
+
+Project Manager \& Junior Consultant (Denver, Colorado) \hfill 2007-2008
+
+*El Pomar Foundation*
+
+Fellow \& Junior Grants Officer (Colorado Springs, Colorado) \hfill 2005-2007
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Texas Association of School Business Officials*, Registered Texas School Business Administrator \hfill 2020 - Present
 
-# Publications
+*Peabody College of Education, Vanderbilt University*, M.P.P. in K-12 Education Policy \hfill May 2014
+
+*College of Arts \& Letters, University of Notre Dame*, B.A. *cum laude* \hfill May 2005
+
+# Awards \& Honors
 
 ::: {#refs-peer}
 :::
