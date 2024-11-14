@@ -22,145 +22,183 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Experience
-
-*Research*
-
-b
-
-c
-
-d
-
-e
-
-*Data Oversight for Vendors and Partners: Audit, Evaluation, and Studies*
-
-f
-
-g
-
-*External Partnerships*
-
-h
-
-i
-
-j
-
-*Analysis, Evaluation, Data Management*  
-
-1
-
-2
-
-3
-
-4
-
-*Technical Skills* 
-
-1
-
-2
-
-3
-
-*Leadership \& Staff Development* 
-
-a
-
-b
-
-c
-
-d
-
-
 # Education
 
 *Texas Association of School Business Officials*, Registered Texas School Business Administrator \hfill 2020 - Present
 
 *Peabody College of Education, Vanderbilt University*, M.P.P. in K-12 Education Policy \hfill May 2014
 
-*College of Arts \& Letters, University of Notre Dame*, B.A. *cum laude* \hfill May 2005
+*College of Arts & Letters, University of Notre Dame*, B.A. *cum laude* \hfill May 2005
+
+# Experience
+
+## Research, Evaluation, and Oversight
+
+Authored the District’s contract templates for external entities using district data for audit or evaluation per 34 CFR §99.35(a)(3) or for studies per §99.31(a)(6) \hfill Summer 2024
+
+Composed and copyedited district's exhibits to the National Student Data Privacy Agreement for all vendors and entities acting as school officials per §99.31(a)(1) \hfill Spring 2024
+
+Co-wrote or edited all district regulations outlining new research guidelines & approval processes \hfill Fall 2023
+
+Initiated internal audit of approved research and related data-sharing agreements; catalyzed a 15-month pause on new approvals to strengthen internal controls \hfill 2022-2023
+
+Envisioned, designed, and implemented a randomized controlled trial (RCT) study addressing targeted outreach and student applications for school choice \hfill 2019-2022
+
+Managed formative evaluation of magnet program quality, including editing two reports \hfill 2019-2021
+
+Authored 20 semi-annual reports to U.S. Dept. of Education on outcomes and indicators, financial activities, matching local funds, successes and obstacles for three discretionary grant awards:
+
+-   Six for the 2017 Magnet School Assistance Program (MSAP, 84.165A) \hfill 2018-2021
+
+-   Eight for the 2014 Teacher Incentive Fund (TIF4, 84.374B) \hfill 2014-2018
+
+-   Six for the 2013 Teacher Incentive Fund (TIF3, 84.374A) \hfill 2014-2016
+
+Wrote four major program evaluation reports (TIF3 & TIF4) including causal inference analysis for improving STAAR scores, cohort analysis for STEM teacher attrition \hfill 2014-2018
+
+Designed survey and analyzed findings to gauge teacher perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2016
+
+## Partnership Roles with External Entities
+
+[Riverside Insights](https://riversideinsights.com/cognitive_abilities_test)  Designer and primary analyst for experimental use of CogAT assessment to meet district need for identifying early elementary students to receive GT services \hfill Present
+
+[University of Houston](https://uh.edu/education/aces/) Negotiator for MOU and data sharing agreement; technical support for district staff on how to query relevant data for contract placing UH students to align with district tutoring needs \hfill Present
+
+[Population And Survey Analytics (PASA)](https://pasatx.com/): Lead point of contact for six-figure contract covering ten-year demographics forecasting, incorporating geocoded student addresses, Census, GIS, and HCAD data \hfill 2022-2024
+
+[Contigo Ed](https://contigoed.org/our-work): Lead project manager for audit funded by the Houston Endowment, compiling a decade of student outcomes and program data related to College, Career, and Military Readiness (CCMR) \hfill 2023-2024
+
+[Institute for Education Sciences, U.S. Department of Education](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835) Primary analyst and district data manager for randomized controlled trial (RCT) by the RAND Corporation to evaluate the efficacy of a software curriculum for improving student math outcomes in grades 3 to 5; Authored technical documentation and coached up a junior analyst to ensure that the Y2 files and documentation met the high standards established in Y1 \hfill 2022-2024
+
+[Good Reason Houston](https://goodreasonhouston.org/about-us/) & [Kitamba](https://www.linkedin.com/company/kitamba-management-inc): Senior analyst for comprehensive transition planning; work included generating custom flat files, onboarding and coaching their teams, capital planning for 2024 bond \hfill 2023-2024
+
+[Panorama Education](https://www.panoramaed.com/about): Analyst for rostering student perception surveys for teacher evaluation \hfill 2023
+
+[NASA Johnson Space Center](https://www.nasa.gov/learning-resources/for-educators/) Project manager handling contracts, schedules, board items, and purchase orders for collaboration to provide K-8 STEM curriculum and job-embedded coaching for STEM teachers \hfill 2018-2021
+
+[Education Analytics](https://www.edanalytics.org/who-we-are): Designer, collaborative analysis on efficacy of specific compensation strategies \hfill 2018
+
+## Analysis, Data Management, Data Modeling
+
+Identified that 90% of district's historical enrollment loss happens at the transition between PK4/KG and between 5th/6th. Diagnosed that over 51,000 students PK and 5th left since SY18-19. Developed incentive models, created and distributed campus-level data resources, calculated baselines, set targeted campus goals, collected recruitment team names for est. 150 schools. Currently calculating eligibility for $1.5m payout. \hfill April 2024 - Present
+
+Design and implement deep analysis, ad hocs, ongoing strategy for expanding Pre-K \hfill January 2023 - Present
+
+- Built initial models and business rules for [Pre-K Seats Available](https://houstonisd-gis-houstonisd.hub.arcgis.com/apps/26799e8d624c4bb6b30d6ac2320b840f/explore) resource, led improvements for SY2425, and coached up junior analyst on related workflows and *ad hoc* requests \hfill September 2023 - Present
+
+- Synthesized campus supply/demand and demographic forecasts to set priorities for $200m bond investment \hfill March - June 2024
+
+- Used open-source Census tools to prioritize district outreach in neighborhoods with income and language demographics likely to qualify for TEA-funded pre-kindergarten programming  \hfill April 2024
+
+- Built multivariate scoring model for CAO to compare supply and demand for pre-kindergarten seats at < 160 campuses; oversaw junior analyst’s related data tasks	\hfill March 2024
+
+- Determined feasibility of expansion at +20 schools: Led team of analysts and program specialists incorporating floorplans, Google Earth, and in-person walkthroughs \hfill March 2024
+
+- Implemented reframing of district policy to *supply* (staffed pre-k seats) and *demand* (kids) \hfill February 2023
+  
+Identified risks and data anomalies, codified data sources & business rules, and set up daily automated communication to resolve issues on master schedules and student course assignments: ensured compliance with state and local regulations for (a) reassigning specific teachers to campuses with overenrollment, (b) meeting TEA class size waiver requirements, (c) CIRCLE testing, and (d) TEA’s ECDS collections. \hfill July - October 2024
+
+Improved user uptake and increased transparency by re-envisioning the 21-22 [Campus Demographic Report](https://www.houstonisd.org/Page/202084) data model and its publication; Successfully delegated to junior analysts for 22-23, 23-24 \hfill February 2022 - May 2024
+
+Senior analyst and project manager for [SchoolFinder](https://schoolfinder.houstonisd.org/Dashboard/module-resource/school-finder), sourcing data elements, reshaping deliverables, liaising with vendor; Successfully delegated workstreams for future iterations \hfill October 2021 - March 2024
+
+Scripted machine learning models to sort 250+ schools into *k*-means clusters with similar (1) building conditions, (2) academic achievement, and (3) financial risk exposure to low enrollment. Trained my Sr. ED to present the results to Cabinet for TEA System of Great Schools \hfill Fall 2022
+
+Originated analysis identifying 500 additional students likely experiencing homelessness: compiling home addresses, change of address results from U.S. Postal Service and LexisNexis, and publicly available data from the state (TX-HHS) and county (HCAD) \hfill December 2021
+
+## Technical Proficiencies
+
+|               |        |     |             |          |
+|---------------|--------|-----|-------------|----------|
+| R/RStudio     | 5 of 5 |     | Stata       | 4 of 5   |
+| MS Excel      | 5 of 5 |     | SPSS        | 3.5 of 5 |
+| MS SharePoint | 5 of 5 |     | Rmd/Quarto  | 3 of 5   |
+| MS Access     | 4 of 5 |     | LaTeX       | 3        |
 
 # Employment
 
-*Houston Independent School District*
+*Houston Independent School District* \hfill August 2014 - Present
 
-CTM, Data Science \& Analytics (Assessment, Accountability \& Compliance) \hfill July 2023 - Present
+CTM, Data Science & Analytics (Assessment, Accountability & Compliance) \hfill Promoted July 2023
 
-Data Scientist / Application Developer (Research \& Accountability) \hfill 2021-2023
+Data Scientist / Application Developer (Research & Accountability) \hfill 2021-2023
 
-Grant Program Manager (Research \& Accountability; School Choice) \hfill 2014-2021
+Grant Program Manager (Research & Accountability; School Choice) \hfill 2014-2021
 
-*Peabody College of Education, Vanderbilt University*
+*Peabody College of Education, Vanderbilt University* \hfill 2012-2014
 
-Graduate Research Assistant (Nashville, Tennessee) \hfill 2012-2014
+Graduate Research Assistant (Nashville, Tennessee) 
 
-*Boys Hope Girls Hope of Colorado* 
+*Boys Hope Girls Hope of Colorado*  \hfill 2010-2011
 
-Development Director (Denver, Colorado) \hfill 2010-2011
+Development Director (Denver, Colorado)
 
-*Community Resource Center*
+*Community Resource Center* \hfill 2008-2010
 
-Consultant \& Trainer (Denver, Colorado) \hfill 2008-2010
+Consultant & Trainer (Denver, Colorado) 
 
-*Robert B. Sharp Company*
+*Robert B. Sharp Company* \hfill 2007-2008
 
-Project Manager \& Junior Consultant (Denver, Colorado) \hfill 2007-2008
+Project Manager & Junior Consultant (Denver, Colorado)
 
-*El Pomar Foundation*
+*El Pomar Foundation* \hfill 2005-2007
 
-Fellow \& Junior Grants Officer (Colorado Springs, Colorado) \hfill 2005-2007
+Fellow & Junior Grants Officer (Colorado Springs, Colorado) 
 
-# Awards \& Invitations
+# Awards & Invitations
 
-Oct 2024. *EDAD 688 Education Policy Series*, Guest Speaker \hfill Texas A\&M
+Oct 2024. *EDAD 688 Education Policy Series*, Guest Speaker \hfill Texas A&M
 
-Apr 2023. *IS595 Competitive Intelligence \& Knowledge Management*, Guest Speaker \hfill Univ. of Illinois
+Apr 2023. *IS595 Competitive Intelligence & Knowledge Management*, Guest Speaker \hfill Univ. of Illinois
 
-Oct 2021. *Making Performance Pay Pay Off*, Conference Presentation  \hfill Council of Great City Schools
+July 2022. *Diversity Scholarship*, Conference and Workshop \hfill [posit::conf](https://posit.co/conference/faq/), formerly RStudio
 
+Oct 2021. *Making Performance Pay Pay Off*, Conference Presentation \hfill Council of Great City Schools
 
 Nov 2018. *SOCI 437/537 Sociology of Education*, Guest Speaker \hfill Rice University
 
 May 2015. *Parents, Teachers, and Title I*, Conference Presentation \hfill CRSEA 9th Annual Conference
 
 # Selected Publications
-Price, L., & Cortez, J. (2024, November 8). Technical Documentation, Efficacy of Zearn Math (IES Award R305A230170). https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835
 
-Price, L., Lasode, M., & Powers, K. (2023, December 13). MEMO: FY25 Forecasting Models for Student ADA. 
+Price, L., & Cortez, J. (2024, September 30). Technical Documentation for IES Award [R305A230170](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835), Efficacy of Zearn Math. Houston ISD: Assessment, Accountability, and Compliance.
 
-Lasode, M., Price, L., Abdoli, M., & Hovey, I. (2022, July 7). 2021-2022 Campus Demographic Report. Private URL
+Price, L., Lasode, M., & Powers, K. (2023, December 13). Memorandum To Chief Financial Officer: FY25 Forecasting Models for Student ADA. Internal Publication. Houston ISD: Assessment, Accountability, and Compliance.
 
-Price, L., & Scuello, M. (2022, May). Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools.
+Lasode, M., Price, L., Abdoli, M., & Hovey, I. (2022, July 7). [2021-2022 Campus Demographic Report](https://www.houstonisd.org/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus%20Demographic%20Report%202021-2022.pdf). Houston ISD: Research and Accountability.
 
-Price, L. (2022, April 1). Public Comment on WWC Version 5.0 (ID 6op2zxpf4i) [Public Comment]. https://ies.ed.gov/ncee/wwc/
+Price, L., & Scuello, M. (2022, May). Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools. Internal Publication.
 
-Aulicino, C., & Price, L. (2021, October). Secondary STEM Magnet Programs Study: Year 2. Metis Associates.
+<!-- Price, L. (2022, April 1). Public Comment ID 6op2zxpf4i on [WWC Version 5.0](https://ies.ed.gov/ncee/wwc/) -->
 
-Aulicino, C., & Price, Lauren. (2020, September). STEM Magnet Program Study: Year 1. Metis Associates. 
+Price, L., & Matney, A. (2021, December 14). Memorandum to Executive Officer, Student Support: Additional Students Identified as Eligible For Services. Internal Publication.
 
-Price, L., Christian, M., & Stevens, C. J. (2018). A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department Of Research And Accountability. 
+Aulicino, C., Rinehart, C., & Price, L. (2021, October). Secondary STEM Magnet Programs Study: Year 2. Metis Associates. Internal Publication.
 
-Price, L., Cramer, E., Milanowski, A., Mader, J., Robertson, D., & Stevens, C. J. (2018). A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department of Research and Accountability.
+Aulicino, C., Rinehart, C., & Price, Lauren. (2020, September). STEM Magnet Program Study: Year 1. Metis Associates. Internal Publication.
 
-Price, L., Provencher, S., & Stevens, C. J. (2018). A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Department of Research and Accountability. 
+Price, L., Christian, M., & Stevens, C. (2018a). A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research And Accountability.
 
-Price, L., & Stevens, C. J. (2017). Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness. Houston ISD: Department of Research and Accountability. http://www.houstonisd.org/Page/128655
+Price, L., Cramer, E., Milanowski, A., Mader, J., Robertson, D., & Stevens, C. (2018b). A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research and Accountability.
 
-Price, L., Jordan, S., & Stevens, C. (2016, January). Preferences and Perspectives on Teacher Compensation, 2014-2015. Houston ISD: Department of Research and Accountability.
+Price, L., Provencher, S., & Stevens, C. (2018c). A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research and Accountability.
+
+Price, L., & Stevens, C. (2017). Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness. Houston ISD: Research and Accountability.
+
+Price, L., Jordan, S., & Stevens, C. (2016, January). Preferences and Perspectives on Teacher Compensation, 2014-2015. Internal Publication.
 
 # References
 
+[Jorge Martinez](mailto:jxmhtx@icloud.com). Director, Data Science & Analytics \hfill Houston ISD
+
 [Isabel Hovey](mailto:isabel.hovey@gmail.com). Director of Accountability, Research, & Compliance \hfill Region IV ESC
 
-[Jorge Martinez](mailto:jxmhtx@icloud.com). Director, Data Science \& Analytics \hfill Houston ISD
-
-[Dr. Allison Matney](mailto:aematney@gmail.com). Former Executive Officer, Assessment Accountability \& Compliance  \hfill Houston ISD 
+[Dr. Allison Matney](mailto:aematney@gmail.com). Former Executive Officer, Assessment Accountability & Compliance \hfill Houston ISD
 
 [Dr. Erin Baumgartner](mailto:erinbaumgartner@rice.edu). Director, Houston Education Research Consortium \hfill Kinder Institute, Rice University
 
 [Marco Heredia](mailto:marco@contigoed.org). Partner, Analytics \hfill Contigo Ed
+
+# Skills & Competencies
+
+*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting • Budgeting • Business Analysis • Business Insights • Business Process • Capital Improvement • Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client Relations • Community Impact • Compilation • Creative Problem Solving • Creative Strategy • Data Analytics • Data Governance • Data Integrity • Data Interpretation • Data Management • Data Manipulation • Data Modeling • Data Retention • Data Science • Data Strategies • Data Systems • Database Administration • Database Systems • Databases • Econometrics • Education Department General Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform, Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 • Key Performance Indicators • KPI Reporting • Large-scale Data Analysis • Legal Requirements • Logic Models • Machine Learning • Metadata • Microsoft Office • New Product Rollout • Presentations • Primary Research • Privacy Regulations • Problem Solving • Program Assessment • Project Management • Quality Assurance • Relational Databases • Reporting Requirements • Spreadsheets • Statistical Analysis • Statistics • Statutes • Strategic Data Analysis • Team Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas Government Code "TGC" • Vendor Relations • Written Communication
