@@ -1,0 +1,217 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+github: pricele2 # github account
+#twitter: twitter # twitter handle
+web: linkedin.com 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+#   peer: peer_bib.bib
+#   other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Education
+
+*Texas Association of School Business Officials*, Registered Texas School Business Administrator \hfill 2020 - Present
+
+*Peabody College of Education, Vanderbilt University*, M.P.P. in K-12 Education Policy \hfill May 2014
+
+*College of Arts & Letters, University of Notre Dame*, B.A. *Cum Laude* \hfill May 2005
+
+# Experience
+
+## Data Science and Business Analytics
+
+Team lead for sponsored Hack Week project at Innovation Science for Education Analytics (ISEA): A highly competitive [data science training program](https://www.amplifylearn.ai/isea/) funded by the Institute of Education Sciences \hfill January - June 2025
+
+*Something something internal controls and data tools to remedy $18m in offbooks liabilities* \hfill April - Present  
+
+Modeled feasibility and cost estimates for CFOO over mutually exclusive operational plans \hfill February - April 2025 
+
+Designed and implemented machine learning models to establish local norms and cut scores: Assigned GT program status for 1,630 students entering Kindergarten in 2025 \hfill July - December 2024
+
+Scripted complex ETL pipelines in SQL and R to flag and remedy under-staffing or overcrowding at 200 schools serving pre-K through grade 5 \hfill August - September 2024 
+
+Authored the District’s two contract templates governing the use of our data by external entities for studies or research/evaluation purposes \hfill Summer 2024
+
+Composed the District's standard exhibits to the National Student Data Privacy Agreement, for entities acting as school officials under state and federal privacy laws \hfill Spring 2024
+
+Co-wrote district regulations outlining new research guidelines and approval processes \hfill Fall 2023
+
+Initiated internal audit of existing contracts and data-sharing agreements; Catalyzed a year-long pause on new approvals to lead the design and implementation of additional internal controls \hfill 2022-2023
+
+Designed and implemented randomized controlled trial (RCT) study of > 115,000 students addressing outreach and decision-making for school choice \hfill 2019-2022
+
+Managed formative external evaluation of magnet program quality; edited 2 consultant reports \hfill 2019-2021
+
+Authored 20 semi-annual reports to U.S. Dept. of Education on outcomes and indicators, financial activities, matching local funds, successes and obstacles for three discretionary grant awards:
+
+-   Six for the 2017 Magnet School Assistance Program (MSAP, 84.165A) \hfill 2018-2021
+
+-   Eight for the 2014 Teacher Incentive Fund (TIF4, 84.374B) \hfill 2014-2018
+
+-   Six for the 2013 Teacher Incentive Fund (TIF3, 84.374A) \hfill 2014-2016
+
+Wrote four major program evaluation reports, including causal inference analysis for improving STAAR scores, and cohort analysis for STEM teacher attrition \hfill 2014-2018
+
+Designed survey and analyzed findings on teacher perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2016
+
+## Leading Partnerships with External Entities
+
+[Riverside Insights](https://riversideinsights.com/cognitive_abilities_test): Designer and primary analyst for experimental use of CogAT assessment to meet district need for identifying early elementary students to receive GT services \hfill 2024
+
+[University of Houston](https://uh.edu/education/aces/): Negotiator for MOU and data sharing agreement \hfill 2024
+
+[Population And Survey Analytics (PASA)](https://pasatx.com/): District project manager for six-figure contract covering ten-year demographic forecasts, incorporating geocoded student addresses, Census, GIS, and HCAD data \hfill 2022-2024
+
+[Contigo Ed](https://contigoed.org/our-work): District project manager for data audit funded by the Houston Endowment, compiling a decade of student outcomes and program data related to College, Career, and Military Readiness (CCMR) \hfill 2023-2024
+
+[Institute for Education Sciences, U.S. Department of Education](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835) Primary analyst and district data manager for randomized controlled trial (RCT) by the RAND Corporation, evaluating the efficacy of Zearn curriculum for improving student math outcomes in grades 3 to 5; Authored two years of technical documentation and coached up junior analyst to ensure that Y2 files and documentation met the high standards I established in Y1 \hfill 2022-2024
+
+[Good Reason Houston](https://goodreasonhouston.org/about-us/) & [Kitamba/MGT](https://www.linkedin.com/company/kitamba-management-inc): Senior analyst for comprehensive leadership transition planning; acted as subject matter expert for district data: answered complex questions, and coached consultants to support incoming C-Suite \hfill 2023-2024
+
+[Panorama Education](https://www.panoramaed.com/about): Analyst for rostering student perception surveys for teacher evaluation \hfill 2023
+
+[NASA Johnson Space Center](https://www.nasa.gov/learning-resources/for-educators/) Project manager handling contracts, schedules, board items for ratification, and purchase orders to provide STEM teachers with NASA's K-8 STEM curriculum and job-embedded coaching \hfill 2018-2021
+
+[Education Analytics](https://www.edanalytics.org/who-we-are): Designer, collaborative analysis on efficacy of specific compensation strategies \hfill 2018
+
+## Analysis, Data Management, and Modeling
+
+Identified that 90% of district's enrollment loss to charters happens at in transitions between PK4/KG and grades 5/6. Diagnosed that over 51,000 unique students in PK and 5th left District since SY18-19. Developed incentive models, created and distributed campus-level data resources, calculated baselines, set targeted campus goals, and calculated eligibility for six-figure payout to 35 schools. \hfill April 2024 - February 2025
+
+Designed and implemented deep analysis, *ad hoc* reporting, and shaped strategy for expanding pre-K \hfill January 2023 - December 2024
+
+- Built initial models and business rules for [Pre-Kindergarten Seats Available](https://houstonisd-gis-houstonisd.hub.arcgis.com/apps/26799e8d624c4bb6b30d6ac2320b840f/explore) resource, led improvements for SY2425, and coached junior analysts on workflows and *ad hoc* requests \hfill September 2023 - December 2024
+
+- Synthesized supply/demand metrics and demographic forecasts to prioritize bond investments \hfill March - June 2024
+
+- Used open-source Census tools to prioritize district outreach in neighborhoods with income and language demographics likely to qualify for state-funded pre-K programming  \hfill April 2024
+
+- Built multivariate scoring model for Chief Academics Officer to compare supply and demand for pre-K at > 160 campuses; oversaw junior analyst’s related data work	\hfill March 2024
+
+- Determined feasibility of expansion at +20 schools: Led team of analysts and program specialists incorporating floorplans, Google Earth, and in-person walkthroughs \hfill March 2024
+
+- Implemented reframing of district policy to *supply* (staffed pre-K seats) and *demand* (kids) \hfill February 2023
+  
+Identified risks and errors, codified sources & business rules, and established daily messaging to leadership for the resolution of errors and anomalies on master schedules and student course assignments: Ensured compliance with state and local regulations for early childhood CIRCLE testing and ECDS data collections. \hfill July - October 2024
+
+Improved user uptake and increased transparency by totally re-envisioning the [Campus Demographic Report](https://www.houstonisd.org/Page/202084) data model and its visualization; Successfully onboarded junior analysts to maintain reproducible workflows for future editions \hfill February 2022 - May 2024
+
+Senior analyst and project manager for [SchoolFinder](https://schoolfinder.houstonisd.org/Dashboard/module-resource/school-finder): sourced data elements, reshaped raw files into complex deliverables, liaised with vendor, and onboarded junior analysts to maintain fully reproducible scripts for future editions \hfill October 2021 - March 2024
+
+Scripted machine learning models to sort 250+ schools into *k*-means clusters across similar (1) building conditions, (2) academic achievement, and (3) financial risk exposure to low enrollment. \hfill Fall 2022
+
+Originated analysis identifying 500 additional students likely experiencing homelessness: using administrative data on student home addresses, private data from U.S. Postal Service and LexisNexis, and publicly available data from the state and county \hfill December 2021
+
+## Technical Proficiencies
+
+|               |        |     |             |          |
+|---------------|--------|-----|-------------|----------|
+| R/Posit       | 5 of 5 |     | Stata       | 4 of 5   |
+| MS Excel      | 5 of 5 |     | Rmd/Quarto  | 3.5 of 5 |
+| MS SharePoint | 5 of 5 |     | LaTeX       | 3 of 5   |
+| MS Access     | 4 of 5 |     | Python      | 2 of 5   |
+
+# Employment
+
+## Houston, Texas \hfill August 2014 - Present
+
+*Houston Independent School District* 
+
+Director, Project Management (Chief Finance and Operations Officer) \hfill January 2025 - Present
+
+Acting Director and CTM / Senior Analyst (Data Science & Analytics) \hfill 2023-2024
+
+Data Scientist and Application Developer (Research & Accountability) \hfill 2021-2023
+
+Grant Program Manager (Research & Accountability; School Choice) \hfill 2014-2021
+
+## Nashville, Tennessee \hfill 2012-2014
+*Peabody College of Education, Vanderbilt University.* Graduate Research Assistant
+
+*Metro Nashville Public Schools.* Summer Associate for Research and Policy
+
+*Martha O'Bryan Center.* Practicum Placement & Volunteer, Nashville Promise Neighborhood
+
+## Colorado Springs & Denver, Colorado
+*Boys Hope Girls Hope of Colorado (Denver).* Development Director \hfill 2010-2011
+
+*Community Resource Center (Denver).* Consultant & Trainer \hfill 2008-2010
+
+*Robert B. Sharp Company (Denver).* Project Manager & Jr. Consultant \hfill 2007-2008
+
+*El Pomar Foundation (Colorado Springs).* Fellow & Associate Grants Officer \hfill 2005-2007
+
+
+# Awards & Invitations
+
+Oct 2024. *EDAD 688 Education Policy Series*, Guest Speaker \hfill Texas A&M
+
+Apr 2023. *IS595 Competitive Intelligence & Knowledge Management*, Guest Speaker \hfill Univ. of Illinois
+
+Jul 2022. *Diversity Scholarship*, Conference and Workshop \hfill [posit::conf](https://posit.co/conference/faq/), formerly RStudio
+
+Oct 2021. *Making Performance Pay Pay Off*, Conference Presentation \hfill Council of Great City Schools
+
+Nov 2018. *SOCI 437/537 Sociology of Education*, Guest Speaker \hfill Rice University
+
+May 2015. *Parents, Teachers, and Title I*, Conference Presentation \hfill CRSEA 9th Annual Conference
+
+# Selected Publications
+
+Price, L., & Islam, F. (2025, February). Technical Documentation: Local Norms & GT Matrix Scores for Students Entering Kindergarten in SY25-26. Internal Publication. Houston ISD: Data Science.
+
+Price, L., & Cortez, J. (2024, September 30). Technical Documentation for Efficacy of Zearn Math, IES Award [R305A230170](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835). Houston ISD: Data Science.
+
+Price, L., Lasode, M., & Powers, K. (2023, December 13). Memorandum To Chief Financial Officer: FY25 Forecasting Models for Student ADA. Internal Publication. Houston ISD: Data Science.
+
+Lasode, M., Price, L., Abdoli, M., & Hovey, I. (2022, July 7). [2021-2022 Campus Demographic Report](https://www.houstonisd.org/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus%20Demographic%20Report%202021-2022.pdf). Houston ISD: Research and Accountability.
+
+Price, L., & Scuello, M. (2022, May). Evidence of Promise from the Magnet Schools Assistance Program: Recruiting Students to HISD’s Secondary STEM Magnet Schools. Internal Publication. 
+
+Price, L. (2022, April 1). Public Comment ID 6op2zxpf4i on [WWC Version 5.0](https://ies.ed.gov/ncee/wwc/)
+
+Price, L., & Matney, A. (2021, December 14). Memorandum to Executive Officer, Student Support: Additional Students Identified as Eligible For Services. Internal Publication. Houston ISD.
+
+Aulicino, C., Rinehart, C., & Price, L. (2021, October). Secondary STEM Magnet Programs Study: Year 2. Metis Associates. Internal Publication.
+
+Aulicino, C., Rinehart, C., & Price, Lauren. (2020, September). STEM Magnet Program Study: Year 1. Metis Associates. Internal Publication.
+
+Price, L., Christian, M., & Stevens, C. (2018a). A Matched-Comparison Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research And Accountability. ERIC Number [ED603680](https://eric.ed.gov/).
+
+Price, L., Cramer, E., Milanowski, A., Mader, J., Robertson, D., & Stevens, C. (2018b). A Human Capital Approach to Improving STEM Education: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research and Accountability. ERIC Number [ED603681](https://eric.ed.gov/).
+
+Price, L., Provencher, S., & Stevens, C. (2018c). A Descriptive Overview: Teacher Incentive Fund STEM Grant in Houston ISD. Houston ISD: Research and Accountability. ERIC Number [ED603678](https://eric.ed.gov/).
+
+Price, L., & Stevens, C. (2017). Teacher Incentive Fund, Cohort 3—Looking Back, Around, And Ahead: HISD’s Viewfinder For Teacher And Leader Effectiveness. Houston ISD: Research and Accountability.
+
+Price, L., Jordan, S., & Stevens, C. (2016, January). Preferences and Perspectives on Teacher Compensation, 2014-2015. Internal Publication.
+
+# References
+
+[Jorge Martinez](mailto:jxmhtx@icloud.com). Director of Data Strategy \hfill BakerRipley
+
+[Isabel Hovey](mailto:isabel.hovey@gmail.com). Director of Accountability, Research, & Compliance \hfill Region IV ESC
+
+[Dr. Allison Matney](mailto:aematney@gmail.com). Senior Consultant, Texas Center for School Accountability \hfill STRIVE Public Policy Resources
+
+[Dr. Erin Baumgartner](mailto:erinbaumgartner@rice.edu). Director, Houston Education Research Consortium \hfill Kinder Institute, Rice University
+
+[Marco Heredia](mailto:marco@contigoed.org). Partner, Analytics \hfill Contigo Ed
+
+# Skills & Competencies
+
+*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting • Budgeting • Business Analysis • Business Insights • Business Process • Capital Improvement • Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client Relations • Community Impact • Compilation • Creative Problem Solving • Creative Strategy • Data Analytics • Data Governance • Data Integrity • Data Interpretation • Data Management • Data Manipulation • Data Modeling • Data Retention • Data Science • Data Strategies • Data Systems • Database Administration • Database Systems • Databases • Econometrics • Education Department General Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform, Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 • Key Performance Indicators • KPI Reporting • Large-scale Data Analysis • Legal Requirements • Logic Models • Machine Learning • Metadata • Microsoft Office • New Product Rollout • Presentations • Primary Research • Privacy Regulations • Problem Solving • Program Assessment • Project Management • Quality Assurance • Relational Databases • Reporting Requirements • Spreadsheets • Statistical Analysis • Statistics • Statutes • Strategic Data Analysis • Team Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas Government Code "TGC" • Vendor Relations • Written Communication
