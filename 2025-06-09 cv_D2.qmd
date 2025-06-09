@@ -28,11 +28,11 @@ csl: apa-cv.csl
 
 *College of Arts & Letters, University of Notre Dame*, B.A. Cum Laude (3.78) \hfill May 2005
 
-# Experience
+# Employment
 
 ## **Texas \hfill 2014 - Present**
 
-*Houston Independent School District* 
+*[Houston Independent School District](https://www.houstonisd.org/)* 
 
 Director, Project Management — Chief Finance and Operations Officer \hfill January 2025 - Present
 
@@ -42,9 +42,9 @@ Data Scientist and Application Developer — Research & Accountability \hfill 20
 
 Grant Program Manager  — Research & Accountability; then School Choice \hfill 2014-2021
 
-*Texas Association of School Business Officials* \hfill Earned 2020; Maintained 2025
+*[Texas Association of School Business Officials](https://www.tasbo.org/certification#module-one-section)* 
 
-[Registered Texas School Business Administrator (R.T.S.B.A.)](https://www.tasbo.org/certification#module-one-section) 
+Registered Texas School Business Administrator (R.T.S.B.A.) \hfill Earned 2020; Now Maintained
 
 ## **Tennessee \hfill 2012-2014**
 
@@ -57,29 +57,33 @@ Grant Program Manager  — Research & Accountability; then School Choice \hfill 
 ## **Colorado \hfill 2005 - 2011**
 *Boys Hope Girls Hope of Colorado (Denver).* Development Director \hfill 2010-2011
 
-*Community Resource Center (Denver).* Consultant & Trainer \hfill 2008-2010
+*Community Resource Center (Denver).* Dir. for Rural Outreach; Consultant & Trainer \hfill 2008-2010
 
-*Robert B. Sharp Company (Denver).* Project Manager & Jr. Consultant \hfill 2007-2008
+*Robert B. Sharp Company (Denver).* Capital Campaign Grant Writer & Project Manager \hfill 2007-2008
 
 *El Pomar Foundation (Colorado Springs).* Fellow & Associate Grants Officer \hfill 2005-2007
 
-# Recent Experience
+# Recent Experiences
 
-## **Project Management, Business Analytics, and Policy Oversight**
+## **Project Management, Internal Analytics, and Policy Oversight**
 
-*Designed and implemented internal regulations and data tools to remedy $18m in off-books liabilities* \hfill April - Present  
-*Negotiated multi-tenant agreement to assuage concerns and meet needs of 5 departments sharing single Warehouse* \hfill March - Present
-*Modeled feasibility and cost estimates for CFOO over mutually exclusive operational plans* \hfill February - April 2025
+Negotiated project plans to meet diverse needs of 5 teams within one implementation goal \hfill March - Present
+
+Ideated internal controls and built data monitoring tools to avoid off-books liabilities in FY26 \hfill April - Present  
+
+Modeled cost estimates for CFOO over mutually exclusive operational plans \hfill February - April 2025
 
 Designed and implemented machine learning models to establish local norms and cut scores to implement District policy objectives for 1,630 students entering Kindergarten in 2025 \hfill July 2024 - February 2025
 
 Subject matter expert on student data privacy; in committee over District data-sharing, reviewed hundreds of agreements and made line-item edits for law & policy alignment \hfill November 2022 - December 2024
 
-Scripted complex ETL pipelines in SQL and R over staff rosters, student enrollment, course assignments, and geospatial data: flagged and remedied under-staffing or overcrowding at 200 schools \hfill August - September 2024 
+Wrote complex ETL pipelines in SQL and R for staff rosters, student enrollment, course assignments, and geospatial data: flagged and remedied under-staffing or overcrowding at 200 schools \hfill August - September 2024 
+
+Authored Houston ISD’s two contract templates governing use of District data for studies or research/evaluation purposes; these Agreements now govern all studies or research in the District \hfill Summer 2024
 
 Composed the District's standard Exhibits to the National Student Data Privacy Agreement, for any entity acting as school officials under law & policy; my Exhibits were later added to the District's master T&C \hfill Spring 2024
 
-Authored Houston ISD’s two contract templates governing use of District data for studies or research/evaluation purposes; these Agreements now govern all studies or research in the District \hfill Summer 2024
+Authored HISD's written methodological expectations for all curriculum providers conducting 'impact evaluations' at the request of the Chief Academic Officer \hfill Spring 2024
 
 Co-wrote Houston ISD's new regulations for research guidelines and approval processes \hfill Fall 2023
 
@@ -89,7 +93,7 @@ Designed and implemented randomized controlled trial (RCT) study of 115,000 stud
 
 Managed external evaluations of magnet programs; edited consultant decks/reports for context \hfill 2019-2021
 
-Authored 20 semi-annual reports to U.S. Dept. of Education on outcomes and indicators, financial activities, matching local funds, successes and obstacles for three discretionary grant awards:
+Authored 20 semi-annual reports to U.S. Dept. of Education on program outcomes, financial activities, matching local funds, successes and obstacles for three discretionary grant awards:
 
 -   Six for the 2017 Magnet School Assistance Program (MSAP, 84.165A) \hfill 2018-2021
 
@@ -101,15 +105,17 @@ Wrote four major program evaluation reports, including causal inference analysis
 
 Designed survey and analyzed findings on teacher perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2016
 
-## **Leading Partnerships with External Entities**
+## **Leading Recent Partnerships with External Entities**
 
-[Innovation Science for Education Analytics (ISEA)](https://www.amplifylearn.ai/isea/): Selected for competitive six-month data science training program funded by the Institute of Education Sciences and the University of Washington \hfill January - June 2025
+[Innovation Science for Education Analytics (ISEA)](https://www.amplifylearn.ai/isea/): Selected for competitive six-month data science training program funded by the Institute of Education Sciences at the University of Washington \hfill January - June 2025
+
+[Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance): Appointed and active member of statewide advisory committee, setting data policy for Texas Student Data System \hfill August 2023 - January 2025
 
 [Riverside Insights](https://riversideinsights.com/cognitive_abilities_test): Primary investigator for experimental use of CogAT assessment to identify early elementary students eligible for Gifted and Talented services \hfill June - December 2024
 
 <!-- [University of Houston](https://uh.edu/education/aces/): Negotiator for MOU and data sharing agreement \hfill 2024 -->
 
-[Population And Survey Analytics (PASA)](https://pasatx.com/): District project manager for six-figure contract covering ten-year demographic forecasts, incorporating geocoded student addresses, Census, GIS, and HCAD datasets \hfill 2022-2024
+[Population And Survey Analytics (PASA)](https://pasatx.com/): District project manager for major contract covering ten-year demographic forecasts, incorporating geocoded student addresses, Census, GIS, and HCAD datasets \hfill 2022-2024
 
 [Contigo Ed](https://contigoed.org/our-work): District project manager for data audit funded by the Houston Endowment, compiling a decade of student outcomes and program data related to College, Career, and Military Readiness (CCMR) \hfill 2023-2024
 
@@ -169,6 +175,8 @@ Apr 2023. *IS595 Competitive Intelligence & Knowledge Management*, Guest Speaker
 
 Jul 2022. *Diversity Scholarship*, Conference and Workshop \hfill [posit::conf](https://posit.co/conference/faq/), formerly RStudio
 
+Oct 2021. *Featured Publication*, TIF Evaluations 1, 2 & 3 \hfill [ArnieDocs](https://www.arniedocs.info/)
+
 Oct 2021. *Making Performance Pay Pay Off*, Conference Presentation \hfill Council of Great City Schools
 
 Nov 2018. *SOCI 437/537 Sociology of Education*, Guest Speaker \hfill Rice University
@@ -211,12 +219,14 @@ Price, L., Jordan, S., & Stevens, C. (2016, January). Preferences and Perspectiv
 
 [Isabel Hovey](mailto:isabel.hovey@gmail.com). Director of Accountability, Research, & Compliance \hfill Region IV ESC
 
+[Tanya Pridgeon](mailto:tpridgeo@houstonisd.org). Sr Mgr, IT Strategic Planning \hfill Houston ISD
+
 [Dr. Allison Matney](mailto:aematney@gmail.com). Sr. Consultant, TX Center for School Accountability \hfill STRIVE Public Policy Resources
 
 [Dr. Erin Baumgartner](mailto:erinbaumgartner@rice.edu). Director, Houston Education Research Consortium \hfill Kinder Institute, Rice University
 
-<!-- [Marco Heredia](mailto:marco@contigoed.org). Partner, Analytics \hfill Contigo Ed -->
+[Marco Heredia](mailto:marco@contigoed.org). Partner, Analytics \hfill Contigo Ed
 
 # Skills & Competencies
 
-*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting • Budgeting • Business Analysis • Business Insights • Business Process • Capital Improvement • Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client Relations • Community Impact • Compilation • Contract Negotiation • Contract Writing • Creative Problem Solving • Creative Strategy • Data Analytics • Data Governance • Data Integrity • Data Interpretation • Data Management • Data Manipulation • Data Modeling • Data Retention • Data Privacy • Data Science • Data Strategies • Data Systems • Database Administration • Database Systems • Databases • Econometrics • Education Department General Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform, Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 • Key Performance Indicators • KPI Reporting • Large-scale Data Analysis • Legal Requirements • Logic Models • Machine Learning • Metadata • Microsoft Office • New Product Rollout • Policy Analysis • Policy Writing • Presentations • Primary Research • Privacy Regulations • Problem Solving • Program Assessment • Program Evaluation •Project Management • Quality Assurance • Relational Databases • Reporting Requirements • Spreadsheets • Statistical Analysis • Statistics • Statutes • Strategic Data Analysis • Team Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas Government Code "TGC" • Vendor Relations • Written Communication
+*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting • Budgeting • Business Analysis • Business Insights • Business Process • Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client Relations • Community Impact • Compilation • Contract Negotiation • Contract Writing • Creative Problem Solving • Creative Strategy • Data Analytics • Data Governance • Data Integrity • Data Interpretation • Data Management • Data Manipulation • Data Modeling • Data Retention • Data Privacy • Data Science • Data Strategies • Data Systems • Database Administration • Database Systems • Databases • Donor Relations • Econometrics • Education Department General Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform, Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 • Key Performance Indicators • KPI Reporting • Large-scale Data Analysis • Leadership • Legal Requirements • Logic Models • Machine Learning • Metadata • Microsoft Excel • Microsoft Office • Policy Analysis • Policy Writing • Presentations • Primary Research • Privacy Regulations • Problem Solving • Program Assessment • Program Evaluation • Project Management • Quality Assurance • R •  RStudio/Posit • Relational Databases • Reporting Requirements • Spreadsheets • Stata • Statistical Analysis • Statistics • Statutes • Team Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas Government Code "TGC" • Vendor Relations • Written Communication
