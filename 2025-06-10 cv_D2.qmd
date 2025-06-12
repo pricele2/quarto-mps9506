@@ -117,7 +117,7 @@ Wrote 4 major program evaluation reports, two in collaboration with external tec
 
 [Contigo Ed](https://contigoed.org/our-work): District project manager for data audit funded by the Houston Endowment, compiling a decade of student outcomes and program data related to College, Career, and Military Readiness (CCMR) \hfill 2023-2024
 
-[RAND Corporation](https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835): Primary analyst, liaison, and HISD data manager for randomized controlled trial (RCT) funded by the Institute for Education Sciences, evaluating the efficacy of Zearn curriculum for improving student math outcomes in grades 3 to 5; Authored 2 years of technical documentation and coached up junior analyst to ensure Y2 deliverables met my standards from Y1 \hfill 2022-2024
+[RAND Corporation](https://doi.org/10.26300/e3bq-7g59): Primary analyst, liaison, and HISD data manager for randomized controlled trial (RCT) funded by the Institute for Education Sciences, evaluating the efficacy of Zearn curriculum for improving student math outcomes in grades 3 to 5; Authored 2 years of technical documentation and coached up junior analyst to ensure Y2 deliverables met my standards from Y1 \hfill 2022-2024
 
 [Good Reason Houston](https://goodreasonhouston.org/about-us/) & [Kitamba/MGT](https://www.linkedin.com/company/kitamba-management-inc): Senior analyst for leadership transition planning; subject matter expert consulted for input across multiple areas \hfill 2023-2024
 
@@ -188,6 +188,8 @@ Nov 2018. *SOCI 437/537 Sociology of Education*, Guest Speaker \hfill Rice Unive
 May 2015. *Parents, Teachers, and Title I*, Conference Presentation \hfill CRSEA 9th Annual Conference
 
 # Selected Publications
+
+Pane, J., Doss, C., Todd, I., & Seaman, D. (2025). Efficacy of Zearn Math over two years in grades 3 to 5: An experiment in Texas. (EdWorkingPaper: 25-1211). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/e3bq-7g59
 
 Price, L., & Islam, F. (2025, February). Technical Documentation: Local Norms & GT Matrix Scores for Students Entering Kindergarten in SY25-26. Houston ISD: Data Science.
 
