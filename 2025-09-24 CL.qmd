@@ -22,28 +22,79 @@ nocite: '@*'
 #   other: other_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
+# \cfoot{} # lines 126 and 124, _extensions/quarto-cv.tex
+# \rfoot{}
+editor_options:
+  markdown:
+    wrap: 80
 ---
 
+```{r}
+#| echo: false
+
+color <- '#00ff00' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+
 \vspace{8 mm}
+
 \apstylekinda\today
 
 Person, Title 
+Organization 
 Address 
 City, State Zip
 
+Dear HR:
 
-Dear HR: 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum sit dolor amet. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum sit dolor amet. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
 
-Regards, 
+Regards,
 
 Lauren E. Price
 
-
-
+::: {.style-text color="`{r} color`"}
 # Skills & Competencies
 
-*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting • Budgeting • Business Analysis • Business Insights • Business Process • Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client Relations • Community Impact • Compilation • Contract Negotiation • Contract Writing • Creative Problem Solving • Creative Strategy • Data Analytics • Data Governance • Data Integrity • Data Interpretation • Data Management • Data Manipulation • Data Modeling • Data Retention • Data Privacy • Data Science • Data Strategies • Data Systems • Database Administration • Database Systems • Databases • Donor Relations • Econometrics • Education Department General Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform, Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 • Key Performance Indicators • KPI Reporting • Large-scale Data Analysis • Leadership • Legal Requirements • Logic Models • Machine Learning • Metadata • Microsoft Excel • Microsoft Office • Policy Analysis • Policy Writing • Presentations • Primary Research • Privacy Regulations • Problem Solving • Program Assessment • Program Evaluation • Project Management • Quality Assurance • R •  RStudio/Posit • Relational Databases • Reporting Requirements • Spreadsheets • Stata • Statistical Analysis • Statistics • Statutes • Team Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas Government Code "TGC" • Vendor Relations • Written Communication
+*Ad Hoc* Analysis • *Ad Hoc* Reporting • Analytical Skills • Annual Budgeting •
+Budgeting • Business Analysis • Business Insights • Business Process •
+Children’s Online Privacy Protection Act "COPPA" at 16 CFR § 312 • Client
+Relations • Community Impact • Compilation • Contract Negotiation • Contract
+Writing • Creative Problem Solving • Creative Strategy • Data Analytics • Data
+Governance • Data Integrity • Data Interpretation • Data Management • Data
+Manipulation • Data Modeling • Data Retention • Data Privacy • Data Science •
+Data Strategies • Data Systems • Database Administration • Database Systems •
+Databases • Donor Relations • Econometrics • Education Department General
+Administrative Regulations "EDGAR" at 2 CFR and 34 CFR • Extract, Transform,
+Load (ETL) • Family Educational Rights and Privacy Act "FERPA" at 34 CFR § 99 •
+Key Performance Indicators • KPI Reporting • Large-scale Data Analysis •
+Leadership • Legal Requirements • Logic Models • Machine Learning • Metadata •
+Microsoft Excel • Microsoft Office • Policy Analysis • Policy Writing •
+Presentations • Primary Research • Privacy Regulations • Problem Solving •
+Program Assessment • Program Evaluation • Project Management • Quality Assurance
+• R • RStudio/Posit • Relational Databases • Reporting Requirements •
+Spreadsheets • Stata • Statistical Analysis • Statistics • Statutes • Team
+Management • Texas Education Code "TEC" • Tenacious Work Ethic • Texas
+Government Code "TGC" • Vendor Relations • Written Communication
+:::
