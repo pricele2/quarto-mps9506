@@ -20,9 +20,10 @@ $endif$
 $if(tables)$
 \usepackage{tabularx} 
 \setlength{\tabcolsep}{0pt}
-% \usepackage{longtable,booktabs}
-% \setlength\LTleft{0pt}
-% \setlength\LTright\fill
+
+\usepackage{longtable,booktabs} % turn off for CL 
+  \setlength\LTleft{0pt}
+  \setlength\LTright\fill
 $endif$
 $if(graphics)$
 \usepackage{graphicx,grffile}
@@ -127,8 +128,8 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 \chead{}
 \rhead{}
 \lfoot{}
-% \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
-% \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+ \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+ \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
