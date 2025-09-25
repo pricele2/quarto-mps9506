@@ -18,7 +18,11 @@ $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
 $if(tables)$
-\usepackage{longtable,booktabs}
+\usepackage{tabularx} 
+\setlength{\tabcolsep}{0pt}
+% \usepackage{longtable,booktabs}
+% \setlength\LTleft{0pt}
+% \setlength\LTright\fill
 $endif$
 $if(graphics)$
 \usepackage{graphicx,grffile}
