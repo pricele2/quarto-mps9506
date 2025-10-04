@@ -16,6 +16,9 @@
 .Renviron
 
 # outputs
+*.aux
+*.log
+*.out
 *.bib
 *.pdf
 *.html

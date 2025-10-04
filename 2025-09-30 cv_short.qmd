@@ -56,6 +56,7 @@ csl: apa-cv.csl
 - Senior analyst, project manager, and team lead; served as Acting Director during two leadership transitions. Promoted in 2023 to Cross-functional Team Member (CTM) from Application Developer. 
 
 - Led team of five analysts in the design and implementation of complex, high-stakes data workflows to ensure timely delivery of insights and solutions. 
+
 - Managed competing deadlines to publish real-time updates in monitoring tools for leadership decision-making and public transparency.
 
 - Wrote and implemented reproducible, maintainable scripts at [github.com/hisd-data-sci](https://github.com/hisd-data-sci) for data cleaning, processing/ETL, analysis, model deployment, and delivery of daily work product subsets for each region's leader.
