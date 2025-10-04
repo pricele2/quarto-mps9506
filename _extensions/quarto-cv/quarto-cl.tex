@@ -1,4 +1,4 @@
-% CV ----
+% CL ----
 
 $doc-class.tex()$
 
@@ -18,12 +18,12 @@ $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
 $if(tables)$
-% \usepackage{tabularx}     % turn off for CV
+% \usepackage{tabularx} 
 % \setlength{\tabcolsep}{0pt}
 
-\usepackage{longtable,booktabs} % turn off for CL 
-  \setlength\LTleft{0pt}
-  \setlength\LTright\fill
+% \usepackage{longtable,booktabs} % turn off for CL 
+%   \setlength\LTleft{0pt}
+%   \setlength\LTright\fill
 $endif$
 $if(graphics)$
 \usepackage{graphicx,grffile}
@@ -90,7 +90,7 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-% Now begins the stuff that I added.
+% Now begins the stuff that I added (mps9506).
 % ----------------------------------
 
 % Custom section fonts
@@ -124,9 +124,9 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 \lhead{}
 \chead{}
 \rhead{}
-\lfoot{} % comment out \cfoot and \rfoot for CL 
- \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
- \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+\lfoot{}
+ % \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+ % \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
@@ -136,7 +136,7 @@ $endif$
 
 \hypersetup{unicode=true,
 $if(title-meta)$
-            pdftitle={$if(author-meta)$$author-meta$: $endif$ $title-meta$ (L Price)},
+            pdftitle={$if(author-meta)$$author-meta$: $endif$ $title-meta$ (LP Cover Letter)},
 $endif$
 $if(author-meta)$
             pdfauthor={$author-meta$},
@@ -160,7 +160,7 @@ $endif$
 % \emph{Updated:} \apstylekinda\today
 % ^ removed from that front bar.
 
-\usepackage{orcidlink}
+% \usepackage{orcidlink}
 %\usepackage{academicons}
 %\definecolor{orcidlogocol}{HTML}{A6CE39}
 % \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
@@ -177,16 +177,7 @@ $endif$
 
 $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-\moveleft.5\hoffset\centerline{ 
-$if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:lauren.3.price@gmail.com}{\tt $email$} \hspace{1 mm}$endif$ 
-$if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
-$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/pricele2}{\tt $github$} \hspace{1 mm} $endif$  
-$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ 
-$if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ 
-$if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ 
-$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://www.linkedin.com/in/lauren-e-price-mpp/}{\tt $web$}  $endif$ 
-$if(kaggle)$$if(fontawesome)$\faKaggle \hspace{1 mm}$else$\emph{Kaggle:}$endif$ \href{http://kaggle.com/$kaggle$}{\tt $kaggle$} \hspace{1 mm} $endif$   
-$if(updated)$ | \emph{Updated:} $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+\moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:lauren.3.price@gmail.com}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/pricele2}{\tt $github$} \hspace{1 mm} $endif$  $if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ $if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ $if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://www.linkedin.com/in/lauren-e-price-mpp/}{\tt $web$}  $endif$ $if(kaggle)$$if(fontawesome)$\faKaggle \hspace{1 mm}$else$\emph{Kaggle:}$endif$ \href{http://kaggle.com/$kaggle$}{\tt $kaggle$} \hspace{1 mm} $endif$   $if(updated)$ | \emph{Updated:} $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
 
 \vspace{2 mm}
 

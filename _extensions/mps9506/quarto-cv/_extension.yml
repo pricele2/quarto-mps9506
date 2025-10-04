@@ -14,7 +14,8 @@ contributes:
       geometry: margin=1in
       biblio-config: false
       include-in-header: header.tex
-      template: quarto-cv.tex
+      template: quarto-cl.tex
+      # template: quarto-cv.tex
       template-partials:
         - "partials/doc-class.tex"
         - "partials/biblio.tex"
