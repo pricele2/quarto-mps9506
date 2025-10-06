@@ -23,7 +23,7 @@ csl: apa-cv.csl
 ---
 
 # Education & Credentials
-*University of Houston*, Lean Six Sigma Yellow Belt  \hfill Expected October 2025 
+*University of Houston*, Lean Six Sigma Yellow Belt  \hfill Expected November 2025 
 
 *University of Washington*, NCES Fellowship in Innovation Science for Education Analytics  \hfill June 2025
 
@@ -65,7 +65,7 @@ csl: apa-cv.csl
 
 - Conducted code reviews, QA tests, and coaching for junior and peer analysts’ work product.
 
-- Designed, implemented, and communicated robust internal controls for data quality at the user/input level: e.g., eliminated linkage errors across over 11,000 PK student schedules.
+- Designed, implemented, and communicated robust internal controls for data quality at the user/input level: e.g., eliminated linkage errors over 11,000 pre-K student schedules.
 
 - Represented District in contract negotiations and data-use agreements with external partners; advised as subject-matter expert on the availability, appropriateness, ETL, and permissible use under data governance policies.
 
@@ -97,9 +97,9 @@ csl: apa-cv.csl
 
 ## **Tennessee \hfill 2012-2014**
 
-*Metro Nashville Public Schools.* Summer Associate for Research and Policy \hfill 2014
+*Metro Nashville Public Schools.* Summer Associate for Pre-K Research & Policy \hfill 2014
 
-<!-- - Policy research, forecasting, and strategy recommendations for the expansion of access to pre-kindergarten across Metro Nashville and Davidson County.  -->
+<!-- - Policy research, forecasting, and strategy recommendations for the expansion of access to pre-kindergarten across Metro Nashville and Davidson County. -->
 
 *Martha O'Bryan Center.* Practicum Intern, Nashville Promise Neighborhood \hfill 2013-2014
 
