@@ -15,15 +15,15 @@ $highlighting-macros$
 $endif$
 $if(verbatim-in-note)$
 \usepackage{fancyvrb}
-\VerbatimFootnotes % allows verbatim text in footnotes
+\VerbatimFootnotes        % allows verbatim text in footnotes
 $endif$
 $if(tables)$
-% \usepackage{tabularx}     % turn off for CV
-% \setlength{\tabcolsep}{0pt}
+\usepackage{tabularx}             % turn off for CV, turn on for CL
+\setlength{\tabcolsep}{0pt}
 
-\usepackage{longtable,booktabs} % turn off for CL 
-  \setlength\LTleft{0pt}
-  \setlength\LTright\fill
+% \usepackage{longtable,booktabs}   % turn off for CL, turn on for CV
+%   \setlength\LTleft{0pt}
+%   \setlength\LTright\fill
 $endif$
 $if(graphics)$
 \usepackage{graphicx,grffile}
