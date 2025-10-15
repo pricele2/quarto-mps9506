@@ -122,14 +122,15 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 % Fancyhdr, as I tend to do with these personal documents.
 \usepackage{fancyhdr,lastpage}
 \pagestyle{fancy}
+% \fancyhf{} % Makes the page number go away for Cover Letter
 \renewcommand{\headrulewidth}{0.0pt}
 \renewcommand{\footrulewidth}{0.0pt}
 \lhead{}
 \chead{}
 \rhead{}
 \lfoot{} % comment out \cfoot and \rfoot for CL
- % \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
- % \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+ \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+ \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}

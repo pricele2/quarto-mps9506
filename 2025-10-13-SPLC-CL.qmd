@@ -25,12 +25,21 @@ editor_options:
   markdown:
     wrap: 80
 ---
-
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- P.S. My bibliograpy for the project will be sent if you interview me -->
+:::
 \vspace{4 mm}
 
 \apstylekinda\today
 
-\vspace{4 mm}
+\vspace{2 mm}
 
 \begin{tabular}{ p{10cm} }
 Rachel Carroll Rivas, Interim Director \\
@@ -43,17 +52,13 @@ Dear Ms. Carroll Rivas:
 
 I am fervently interested in leading the data work that supports the SPLC’s transformative mission, and I am proud to submit my application for Deputy Director, Data Analytics & OSINT. The most critical issue facing American democracy today is the seeping spread of hard-right extremism, and its noxious real-life consequences for diverse communities. As your Deputy Director, I would deploy my professional skills and technical expertise in support of my deep personal and civic values. I bring to the table eleven years of leadership roles in a cross-functional matrix, six years of managing project and product teams, and a track record of ambitious, innovative analytics design. My background in leading technical work, operationalizing non-standard data sources, and translating complex models into high-impact communications catalyze with my dedication to the SPLC mission to make me a stellar candidate.
 
-My data science skills began my graduate program (2012-2014), where  I excelled in the quant-heavy policy program. I repeatedly chose PhD-level electives in econometrics, sociology, and research design. Those skills deepened and broadened over ten years of program work in Houston ISD. The competitive ISEA fellowship also let me add “Python beginner” to my already fluent command of R, Git/GitHub, Stata, Qualtrics, and other tools. My resume highlights successes in leading complex short- and long-term projects: from design and modeling through development, production, rollout, and annual revisions, while ensuring technical rigor, precise parameters, and ethical handling of data at every step. The one-page plan included in my application is a high-level example of how I envision wrangling non-traditional OSINT sources for both short term exposure and long-term disruption. Even with a twee motto (“donate used socks!”), this project outline demonstrates I am deadly serious about my vision for this work. Hard-right extremism is a cancer in the heart of the American project, and with my technical expertise and creative analytic design the SPLC can deliver targeted chemotherapy for our multicultural democracy. 
+My data science skills began my graduate program (2012-2014), where  I excelled in the quant-heavy policy program. I repeatedly chose PhD-level electives in econometrics, sociology, and research design. Those skills deepened and broadened over ten years of program work in Houston ISD. The competitive ISEA fellowship also let me add “Python beginner” to my already fluent command of R, Git/GitHub, Stata, Qualtrics, and other tools. My resume highlights successes in leading complex short- and long-term projects: from design and modeling through development, production, rollout, and annual revisions, while ensuring technical rigor, precise parameters, and ethical handling of data at every step. The one-page plan included in my application is a high-level example of how I envision wrangling non-traditional OSINT sources for exposure and disruption. Even with a twee motto (“donate used socks!”), this project outline demonstrates I am deadly serious about my vision for this work. Hard-right extremism is a cancer in the heart of the American project, and with my technical expertise and creative analytic design the SPLC can deliver targeted chemotherapy for our multicultural democracy. 
 
 On the people side of the work, I am an experienced leader with six years of mentoring, managing, and developing technical analysts and program staff. I set high expectations, establish collaborative team norms, and then coach where needed for consistent results. When leading major projects, I have also found particular success by collaborating with my counterparts in other functional areas (Legal, IT, Communications). I make it a habit to identify and consult with colleagues whose work will affected by my changes. This consistently leads to better implementation – e.g., when Accounts Payable changed reimbursement policies for 26,000 staffers three weeks after classes started.
 
-In conclusion, I am a candidate with a prestigious advanced degree, professional research training across diverse domains of social science, a decade of leadership experience and technical expertise, oodles of curiosity, and (frankly) a constellation of personal characteristics that would make a white supremacist see red with rage. I look forward to speaking with you about how I can contribute to the SPLC’s vital work in the fight against hard-right extremism.
+In conclusion, I am a qualified candidate with professional research training across diverse domains of social science, a decade of leadership experience and technical expertise, oodles of curiosity, and (frankly) a constellation of personal characteristics that would make a white supremacist see red with rage. I look forward to speaking with you about how I can contribute to the SPLC’s vital work in the fight against hard-right extremism.
+
 
 Regards,
 
 Lauren E. Price
-
-
-
-
-

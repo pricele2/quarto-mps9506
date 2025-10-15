@@ -35,7 +35,7 @@ csl: apa-cv.csl
 
 *University of Notre Dame*, Bachelor of Arts cum laude (3.78) \hfill May 2005
 
-# Employment
+# Employment Overview
 
 ## **Texas \hfill 2014 - 2025**
 
@@ -64,19 +64,19 @@ Grant Manager & Program Analyst, Special Revenue \hfill Aug. 2014 - Oct. 2021
 
 *El Pomar Foundation (Co. Springs).* Program Coordinator & Associate Grants Officer \hfill 2005-2007
 
-# Recent Experiences
+# Experiences
 
-## **Project Leadership and Research Design**
+## **Project Leadership and Research/Analytics Design**
 
 <!-- - Appointed active member of statewide advisory committee [Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance), setting policy and reporting schedules for Texas Student Data System \hfill Aug. 2023 - Jan. 2025 -->
 
-Led team of five analysts to write and implement reproducible, maintainable scripts at [github.com/hisd-data-sci](https://github.com/) for cleaning, processing/ETL, analysis, model deployment, and delivery of daily work product subsets for each region's leader. \hfill Nov. 2023 - Dec. 2024
+Led team of five analysts to write and implement reproducible [scripts](https://github.com/) to clean, process/ETL, analyze, and deliver daily work product to regional Superintendents. \hfill 2023 - 2024
 
 Wrote complex ETL pipelines in SQL, R, and Stata for disparate and non-standard datasets on staff rosters, job titles, student enrollment & characteristics, course assignments, student-teacher linkage, and geospatial data; drove staffing strategies at 200 elementaries \hfill Jan. 2022 - Oct. 2024
 
 Identified actionable enrollment trends for C-suite leaders: Modeled cash incentives to counteract attrition, distributed campus-level data tools for student retention, set baselines and set stretch goals, calculated payouts for 30+ schools, and wrote presentations to communicate outcomes with senior leaders. \hfill Apr. 2024 - Feb. 2025
 
-Primary Investigator (PI) for experimental use of CogAT assessment and subsequent Monte Carlo modeling of local norms/cut scores from [Riverside Insights](https://riversideinsights.com/cognitive_abilities_test); implemented policy objectives for 1,630 students entering Kinder in 2025 \hfill Jun. - Dec. 2024
+Primary Investigator (PI) for experimental use of CogAT assessment and subsequent Monte Carlo modeling of local norms from [Riverside Insights](https://riversideinsights.com/cognitive_abilities_test); implemented cut scores for 1,630 students \hfill Jun. - Dec. 2024
 
 Provided leadership, thought partnership, and project management for cross-functional initiatives owned by Senior Executive Directors over Payroll, Controller, Treasury, Real Estate, Procurement, Fixed Assets, and Warehouse. \hfill 2025
 
@@ -98,7 +98,7 @@ Led negotiations on data-use contracts with external partners; subject-matter ex
 
 Drove data-driven adjustments to improve timeliness in accounts payable and payroll actions. \hfill 2025
 
-Overhauled 500+ pages of internal controls for Finance Manual, reframing compliance content for median customer. \hfill 2025
+Overhauled 500+ pages of internal controls for Finance Manual, reframing for median customer. \hfill 2025
 
 Modeled cost estimates for CFO over mutually exclusive operational plans \hfill 2025
 
