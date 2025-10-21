@@ -29,9 +29,11 @@ csl: apa-cv.csl
 
 *TX Assoc. of School Business Officials*, Registered Texas School Business Administrator (R.T.S.B.A.) \hfill Sept. 2020
 
-*Vanderbilt University*, Master's of Public Policy in K-12 Education Policy (3.92) \hfill May 2014
+*Vanderbilt University*, Master's of Public Policy: K-12 Education Policy \hfill May 2014
+<!-- (3.92) -->
 
-*University of Notre Dame*, Bachelor of Arts cum laude (3.78) \hfill May 2005
+*University of Notre Dame*, Bachelor of Arts cum laude: Theology \hfill May 2005 
+<!-- (3.78) -->
 
 # Employment
 
@@ -41,27 +43,27 @@ csl: apa-cv.csl
 
 **Director, Finance Project Management \hfill 2025 **
 
-- Provided strategic leadership, thought partnership, and project management for initiatives owned by Senior Executive Directors over Payroll, Controller, Treasury, Real Estate, Procurement, Fixed Assets, and Warehouse.
+- Provided strategic leadership and project management for special projects owned by Senior Executive Directors over Payroll, Benefits, Treasury, Real Estate, Procurement, Fixed Assets, and Warehouse.
 
 - Recommended data-driven adjustments to improve timeliness in accounts payable and payroll actions.
 
-- Overhauled 500+ pages of internal policies/procedures Manual, refocusing the content for the everyday customer. 
+- Overhauled 500+ pages of internal Finance Manual, reframing compliance content for the everyday user. 
 
 - Proactively built cross-functional leadership buy-in for upcoming changes to finance policies and procedures. 
 
-- Liaised with Council for Great City Schools (CGCS) leadership, ensuring reliable and reproducible results for local and national KPIs across 16 areas of operation.
+- Liaised with internal & external leaders to ensure reliable business intelligence and reproducible results for local/national KPIs across 16 areas of operation.
 
 **Deputy Director (CTM) & Senior Analyst, Data Science & Analytics \hfill 2021-2024 **
 
 - Senior analyst, project manager, and team lead; served as Acting Director during two leadership transitions. Promoted in 2023 to Cross-functional Team Member (CTM) from Application Developer. 
 
-- Led team of five analysts in the design and implementation of complex, high-stakes data workflows to ensure timely delivery of insights and solutions. 
+- Led team of five analysts in the design and implementation of complex, high-stakes data workflows to ensure timely delivery and publication of business intelligence in PowerBI, Tableau. 
 
 - Managed competing deadlines to publish real-time updates in monitoring tools for leadership decision-making and public transparency.
 
 - Wrote and implemented reproducible, maintainable scripts at [github.com/hisd-data-sci](https://github.com/hisd-data-sci) for data cleaning, processing/ETL, analysis, model deployment, and delivery of daily work product subsets for each region's leader.
 
-- Created complex ETL pipelines in SQL, R, and Stata for staff rosters, student enrollment, student characteristics, course assignments, student-teacher linkage, and geospatial data.
+- Created complex ETL pipelines in SQL, R, and Stata for enterprise-level business intelligence on staff rosters, student enrollment and characteristics, course assignments, student-teacher linkage, and geospatial data.
 
 - Conducted code reviews, QA tests, and coaching for junior and peer analysts’ work product.
 
@@ -81,7 +83,7 @@ csl: apa-cv.csl
 
 - Ensured efficient, on-time, and in-scope spending: e.g., ended 84.374B with 99.9999% spent ($7.99 unspent).
 
-- Authored 20 semi-annual program compliance reports to USDE, including budget-to-actual narratives, SWOT analyses of implementation, and longitudinal metrics over student achievement and human capital.
+- Authored 20 semi-annual program compliance reports to USDE, including budget-to-actual narratives, SWOT analyses of implementation, and longitudinal business intelligence metrics over student and human capital outcomes.
 
 - Monthly review and reconciliation of financials to ensure alignment with USDE standards (EDGAR), as well as GAAP, GASB, and state regulations (FASRG) for government accounting.
 
@@ -97,7 +99,7 @@ csl: apa-cv.csl
 
 ## **Tennessee \hfill 2012-2014**
 
-*Metro Nashville Public Schools.* Summer Associate for Pre-K Research & Policy \hfill 2014
+*Metro Nashville Public Schools.* Summer Associate for Research & Policy \hfill 2014
 
 <!-- - Policy research, forecasting, and strategy recommendations for the expansion of access to pre-kindergarten across Metro Nashville and Davidson County. -->
 
