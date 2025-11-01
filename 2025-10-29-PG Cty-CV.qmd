@@ -23,7 +23,7 @@ csl: apa-cv.csl
 ---
 
 # Education & Credentials
-<!-- *University of Houston*, Lean Six Sigma Yellow Belt \hfill Expected November 2025  -->
+*University of Houston*, Lean Six Sigma Yellow Belt \hfill Expected November 2025
 
 *University of Washington*, NCES Fellowship in [Innovation Science for Education Analytics (ISEA)](https://www.amplifylearn.ai/isea/) \hfill June 2025
 
@@ -31,7 +31,7 @@ csl: apa-cv.csl
 
 *Vanderbilt University*, Master's of Public Policy in K-12 Education Policy (3.92) \hfill May 2014
 
-- Thesis: Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement
+<!-- - Thesis: Parents and Teachers in Title I Schools: A Critical Race Theory Analysis of Parent Engagement -->
 
 *University of Notre Dame*, Bachelor of Arts cum laude (3.78) \hfill May 2005
 
@@ -43,7 +43,7 @@ csl: apa-cv.csl
 
 Director, Finance Project Management \hfill Jan. - Sep. 2025
 
-Deputy Director (CTM) & Senior Analyst, Data Science & Analytics \hfill Oct. 2021 - Dec. 2024
+Deputy Director & Senior Analyst, Data Science & Analytics \hfill Oct. 2021 - Dec. 2024
 
 Grant Manager & Program Analyst, Special Revenue \hfill Aug. 2014 - Oct. 2021
 
@@ -51,7 +51,7 @@ Grant Manager & Program Analyst, Special Revenue \hfill Aug. 2014 - Oct. 2021
 
 *Metro Nashville Public Schools.* Summer Associate for Research and Policy \hfill 2014
 
-*Martha O'Bryan Center.* Practicum Intern, Nashville Promise Neighborhood \hfill 2013-2014
+<!-- *Martha O'Bryan Center.* Practicum Intern, Nashville Promise Neighborhood \hfill 2013-2014 -->
 
 *Vanderbilt University.* Graduate Research Assistant & Summer Program Evaluation Associate \hfill 2012-2014
 
@@ -68,11 +68,11 @@ Grant Manager & Program Analyst, Special Revenue \hfill Aug. 2014 - Oct. 2021
 
 ## **Project Leadership and Research/Analytics Design**
 
-<!-- - Appointed active member of statewide advisory committee [Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance), setting policy and reporting schedules for Texas Student Data System \hfill Aug. 2023 - Jan. 2025 -->
+Led team of five analysts to write and implement reproducible scripts to pull, clean, process/ETL, reshape, join, analyze, and deliver daily work product to C-Suite leaders. \hfill July 2023 - Dec. 2024
 
-Led team of five analysts to write and implement reproducible [scripts](https://github.com/) to clean, process/ETL, analyze, and deliver daily work product to regional Superintendents. \hfill 2023 - 2024
+Wrote and combined complex ETL pipelines using SQL, R, and Python for disparate and non-standard datasets on staff rosters, job titles, student enrollment & characteristics, course assignments, student-teacher linkage, and geospatial (GIS) data; drove staffing strategies at 200 elementaries \hfill Jan. 2022 - Oct. 2024
 
-Wrote complex ETL pipelines in SQL, R, and Stata for disparate and non-standard datasets on staff rosters, job titles, student enrollment & characteristics, course assignments, student-teacher linkage, and geospatial data; drove staffing strategies at 200 elementaries \hfill Jan. 2022 - Oct. 2024
+Appointed active member of statewide advisory committee [Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance), setting policy and reporting schedules for Texas Student Data System \hfill Aug. 2023 - Jan. 2025
 
 Identified actionable enrollment trends for C-suite leaders: Modeled cash incentives to counteract attrition, distributed campus-level data tools for student retention, set baselines and set stretch goals, calculated payouts for 30+ schools, and wrote presentations to communicate outcomes with senior leaders. \hfill Apr. 2024 - Feb. 2025
 
@@ -172,7 +172,7 @@ Project manager for contract with [Population And Survey Analytics (PASA)](https
 
 [Panorama Education](https://www.panoramaed.com/about): Analyst for rostering student perception surveys for teacher evaluation \hfill Spring 2022
 
-Designed survey for CAO and presented actionable findings on staff perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2018
+Designed and administered survey to 11,000 teachers; presented actionable findings on staff perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2018
 
 Designed collaboration with [Education Analytics](https://www.edanalytics.org/who-we-are) on efficacy of performance pay strategies \hfill 2018
 
