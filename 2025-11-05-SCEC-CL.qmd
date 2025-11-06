@@ -1,0 +1,71 @@
+---
+title: CL
+format:
+  quarto-cv-pdf: default
+filters:
+- style-text # https://github.com/leovan/quarto-style-text#readme
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+github: pricele2 # URL linked in quarto-cv.tex
+web: linkedin.com # URL linked in quarto-cv.tex 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+  # peer: peer_bib.bib
+  # other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+editor_options:
+  markdown:
+    wrap: 80
+---
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- Lorem ipsum sit dolor amet -->
+:::
+\vspace{8 mm}
+
+\apstylekinda\today
+
+\vspace{2 mm}
+
+\begin{tabular}{ p{10cm} }
+Ms. Cristi Carman, Director \\
+RAPID Survey, Stanford Center on Early Childhood \\
+520 Galvez Mall, CERAS 407 \\
+Stanford, California \\
+\end{tabular}
+
+Dear Ms. Carman:
+
+I am pleased to submit my application for the Data Scientist position with the Stanford Center on Early Childhood's RAPID Survey Project. This opportunity was brought to my attention by my friend and colleague Dr. Brian Holzman, Stanford GSE Ph.D. and now tenure-track faculty at Texas A&M. I bring to the table substantial experience with the "empirical pragmatism" of a data practitioner, advanced quant training to maintain the muscle of methodological rigor, technical skill with analysis tools and software paradigms, content knowledge in early childhood education and workforce policies, and recent experience leading a team of analysts as a "player-coach". At this stage of my career, I am eager for my scope of influence to stretch into multiple contexts. The reach of the RAPID Survey and its partnerships would enable me to put my shoulder behind a policy project that aligns with my personal and civic values, to advance an interdisciplinary vision of community that supports our littlest neighbors.
+
+I used Gemini to organize the `Experiences' section of my CV around three domains of this role: (1) Data Management & Methodological Rigor; (2) Leadership, Coaching, & Matrixed Team Collaboration; and (3) Policy Context & Research Dissemination. Here I highlight additional key competencies for this position:  
+
+* __Data Quality & Process Compliance.__ My professional history outlined in the attached C.V. demonstrates a consistent commitment to rigor and reproducibility, whether in writing dataset-specific processing scripts with rigorous methodological standards and embedded quality checks, or while implementing internal controls to monitor procedures for compliance. I drew on these skill sets heavily as Deputy Director for Data Science & Analytics at Houston Independent School District (HISD), where I reviewed my team's data products to ensure accuracy and quality. These skills followed me in a new context after my January 2025 promotion to Director under the CFO, when I supported senior leadership in monitoring compliance with processes that ensured high-quality data, and drove program interventions that eliminated root causes for data problems.
+
+* __Addressing Data Complexity.__ I possess substantial technical skill in managing large, messy, and high-stakes data sets extracted via API, SQL endpoint, or CSV from disparate user-facing platforms: Qualtrics, SalesForce, PowerSchool SIS, enterprise resource planning platforms like SAP and PeopleSoft, and data stores such as IBM Cognos Analytics and [OnPoint](https://ondatasuite.com/onpoint/). I have over a decade of hands-on experience wrangling, cleaning, reshaping, and documenting data for complex, often longitudinal projects and indicators. I earned a reputation for making machine-readable, reproducible magic out of stakeholders' chaotic files; during a high-stress team project in 2024 I proudly accepted a [Princess Diaries meme](https://www.getyarn.io/yarn-clip/3acf4886-187b-4252-a219-9282bcd812bb/gif) complimenting [this flair](https://www.getyarn.io/yarn-clip/aabd0015-b6e2-47c4-ac53-6902c6bd468c/gif) from a creative junior colleague. In 2025 the competitive IES-funded ISEA fellowship in let me add Python skills to my already fluent command of R, Git/GitHub, Stata, Qualtrics, and other enterprise-level data tools.
+
+* __Survey Research Experience.__ I have direct experience with large-scale survey data collection and analysis. In fall 2023 and fall 2024, my team created the Qualtrics instruments and back-end workflows to intake, de-duplicate, differentiate pathways, and route parents' requests to test 37,227 students for GT program eligibility. Both years I designed the reproducible workflows around the qualtRics pacakge from R, relying on the API key issued to me as a system admin for the District. Earlier in my HISD tenure I designed and implemented a survey of 2,000 HISD teachers on their perspectives on performance-based compensation, calculating and implementing post-survey sample weights to infer metrics for the full district teacher workforce.
+
+On the people side of the work, I am an experienced leader with six years of guiding, coaching, and mentoring technical analysts and customer-facing program staff. I set high expectations and clear parameters, establish collaborative practices and team norms, and then both oversee and coach up where needed so our stakeholders see consistent results. I deliberately foster a high-performing, mutually accountable team culture — aiming to be the kind of leader that educational theorist (and Stanford Ph.D.!) Dr. Gloria Ladson-Billings might call a 'warm demander.' My experience leading the Data Science team to ship complex deliverables with competing deadlines for stakeholders up and down the org chart prepared me well to thrive in a matrixed environment. I am prepared to guide the work of others and respond to their needs — as I did with minimal oversight when providing strategic leadership and project management for Executive Directors over seven major functions of finance and operations.
+
+I will resist the present temptation to wax on for at least another page about my professional experiences and how these have prepared me to succeed immediately in this role — from troubleshooting and anomaly detection in data pipelines, to managing tricky relationships with stakeholders, the ins and outs of data visualization strategies, and of course the nerdy thrill of creating really precise documentation. I look forward to the opportunity to discuss how my professional skills, content knowledge, and personal values can contribute to the RAPID Survey project's commitment to our youngest neighbors, and to the adults who love and support them. Thank you for your time and consideration.  
+
+
+\vspace{8 mm}
+Regards,
+
+Lauren E. Price
