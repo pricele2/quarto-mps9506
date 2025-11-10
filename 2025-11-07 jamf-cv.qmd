@@ -1,0 +1,155 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+github: pricele2 # github account
+#twitter: twitter # twitter handle
+web: linkedin.com 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+#   peer: peer_bib.bib
+#   other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Education & Credentials
+*University of Washington*, NCES Fellowship in Innovation Science for Education Analytics  \hfill June 2025
+
+*TX Assoc. of School Business Officials*, Registered Texas School Business Administrator (R.T.S.B.A.) \hfill Sept. 2020
+
+*Vanderbilt University*, Master's of Public Policy: K-12 Education Policy \hfill May 2014
+<!-- (3.92) -->
+
+*University of Notre Dame*, Bachelor of Arts cum laude \hfill May 2005 
+<!-- (3.78) -->
+
+# Employment
+
+## **Texas \hfill 2014 - Present**
+
+*Houston Independent School District (HISD)* 
+
+**Director, Finance Project Management \hfill 2025 **
+
+Strategic leadership, project management, and thought partnership for special projects owned by CFO and senior leaders over Payroll, Benefits, Treasury, Real Estate, Procurement, Fixed Assets, and Warehouse.  
+
+Calculated $609,500 in bonuses earned by 274 staff at 52 schools for success with [enrollment metrics](https://www.houstonchronicle.com/news/houston-texas/education/hisd/article/hisd-student-recruitment-incentive-program-20177719.php)  
+
+<!-- - Recommended data-driven adjustments to improve timeliness in accounts payable and payroll actions. -->
+
+<!-- Overhauled 500+ pages of internal Finance Manual, reframing compliance content for the everyday user.   -->
+
+<!-- Proactively built cross-functional leadership buy-in for upcoming changes to finance policies and procedures.   -->
+
+Liaised with internal & external leaders to ensure reliable business intelligence and reproducible results for local/national KPIs across 16 areas of operation.  
+
+**Deputy Director (CTM) & Senior Analyst, Data Science & Analytics \hfill 2021-2024 **
+
+Senior analyst, project manager, and team lead; served as Acting Director during two leadership transitions. Promoted in 2023 to Cross-functional Team Member (CTM) from Application Developer.     
+
+Led team of five analysts in the design and implementation of complex, high-stakes data workflows to ensure timely delivery and publication of business intelligence in PowerBI, Tableau.  
+
+Identified actionable enrollment trends for C-suite leaders: Modeled cash incentives to counteract attrition, distributed campus-level data tools for student retention, calculated baselines and stretch goals, and wrote presentations to communicate impact with senior leaders. 
+
+Managed competing deadlines over simultaneous priorities to publish real-time updates in monitoring tools for leadership decision-making and public transparency.  
+
+Wrote and implemented reproducible, maintainable scripts at [github.com/hisd-data-sci](https://github.com/hisd-data-sci) for data cleaning, processing/ETL, analysis, model deployment, and delivery of daily work product subsets for each region's leader.  
+
+Created complex ETL pipelines in SQL, R, and Stata for enterprise-level business intelligence on staff rosters, student enrollment and characteristics, course assignments, student-teacher linkage, and geospatial data.  
+
+Conducted code reviews, QA tests, and coaching for junior and peer analysts’ work product.  
+
+Designed, implemented, and communicated robust internal controls for data quality at the user/input level: e.g., eliminated linkage errors over 11,000 pre-K student schedules.  
+
+Represented District in contract negotiations and data-use agreements with external partners; advised as subject-matter expert on the availability, appropriateness, ETL, and permissible use under data governance policies.  
+
+Authored District's legal agreement templates for external entities accessing our data under audit/evaluation or studies exemptions to FERPA, standardizing data privacy, data sharing, and compliance procedures.  
+
+Demonstrated strong initiative and resourcefulness in problem-solving and project design; independently mastered new tools and statistical methods to solve complex analytical challenges.  
+
+Power User of SIS and HRIS data, including user-facing GUI (PowerSchool) and SQL endpoint.  
+
+**Grant Program Manager, Special Revenue \hfill 2014-2021**
+
+Led day-to-day financial management, internal controls, and project implementation for $60.3 million in federal & local matching expenditures under three USDE discretionary grants (84.165A, 84.374B, and 84.374A).
+
+Administered $1,070,000 in bonus payouts to STEM teachers for recruitment and retention: schools doubled teacher retention by implementing the timing changes suggested by my analysis.
+
+<!-- Ensured efficient, on-time, and in-scope spending: e.g., ended 84.374B with 99.9999% spent ($7.99 unspent). -->
+
+Authored 20 semi-annual program compliance reports to USDE, including budget-to-actual narratives, SWOT analyses of implementation, and longitudinal business intelligence metrics over student and human capital outcomes.
+
+Monthly review and reconciliation of financials to ensure alignment with USDE standards (EDGAR), as well as GAAP, GASB, and state regulations (FASRG) for government accounting.
+
+Negotiated scopes of work, monitored work for hire, and resolved disputes with vendors, universities, technical assistance providers, and nonprofit partners. 
+
+Queried, organized, maintained, and analyzed 70+ datasets capturing 8 years of complex District-wide indicators.
+
+Primary Investigator (PI) for randomized controlled trial (RCT) study of 115,000 enrolled students, exploring marketing, behavior nudges, and decision-making for school choice, as part of Magnet grant. 
+
+Power User of ERP system tools (SAP, PeopleSoft HRIS) and SIS data, including data warehouse IBM Cognos.
+
+## **Tennessee \hfill 2012-2014**
+
+*Metro Nashville Public Schools.* Summer Associate for Research & Policy \hfill 2014
+
+<!-- - Policy research, forecasting, and strategy recommendations for the expansion of access to pre-kindergarten across Metro Nashville and Davidson County. -->
+
+*Martha O'Bryan Center.* Practicum Intern, Nashville Promise Neighborhood \hfill 2013-2014
+
+<!-- - Volunteer professional placement, focused on children and families served by center. -->
+
+*Vanderbilt University.* Graduate Research Assistant & Summer Program Evaluation Associate \hfill 2012-2014
+
+<!-- - Multiple research and professional projects and roles, outlined in detail [online](https://www.linkedin.com/in/lauren-e-price-mpp/details/projects/) -->
+
+## **Colorado \hfill 2005 - 2011**
+*Boys Hope Girls Hope of Colorado (Denver).* Development Director \hfill 2010-2011
+
+<!-- - Planned and implemented a diversified fund development program. -->
+
+<!-- - Exceeded by 14% our goal for year-end direct mail campaign.  -->
+
+<!-- - Executed successful special event fundraiser that netted 29% over previous year. -->
+
+<!-- - Wrote logic model articulating the organization's youth development programming, integrating social science research on risk factors for dropout and juvenile delinquency.  -->
+
+*Community Resource Center (Denver).* Program Associate & Project Coordinator \hfill 2008-2010
+
+<!-- - Project-managed the creation of the Colorado Common Grant Report, coordinating 60+ individuals across the state through seven working committees over ten months.  -->
+
+<!-- - Raised and managed annual budget of $155,000 from 13 foundation funders and multiple earned-revenue sources. -->
+
+<!-- - Managed internal team of 3 plus a half-dozen part-time contractors.  -->
+
+<!-- - Promoted with title bump in 2010 to run the Rural Philanthropy Days program, the organization's signature event.  -->
+
+*Robert B. Sharp Company (Denver).* Project Coordinator, Feasibility Studies \& Capital Campaigns \hfill 2007-2008
+
+<!-- - Implemented project management systems to support feasibility studies on $410 million in client projects. -->
+
+<!-- - Conducted extensive OSINT profiling on individuals, foundations, government entities, and other private funding sources for nonprofit clients across a wide variety of causes. -->
+
+<!-- - Wrote and managed client grants for annual fund, capital, and capacity building needs. -->
+
+<!-- - Drafted mixed-method findings for senior leadership's strategy recommendations. -->
+
+*El Pomar Foundation (Co. Springs).* Program Coordinator & Associate Grants Officer \hfill 2005-2007
+
+<!-- - Reviewed grant proposals totaling $870,000, evaluating applicants' impact and financial sustainability. -->
+
+<!-- - Managed Foundation’s community relations and program operations within five-county region around Durango, Colorado – a population of approximately 90,000. -->
+
+<!-- - Staffed and educated grant making council of nine high-profile community leaders on the pressing social and economic issues affecting the region, thereby facilitating $216,000 of their grants. -->
+
+<!-- - In this two-year program, Fellows work full-time for the Foundation, spending their time supporting programs and grant making work while participating in a comprehensive professional development curriculum. -->
