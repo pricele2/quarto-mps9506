@@ -68,35 +68,11 @@ Grant Manager & Program Analyst, Special Revenue \hfill Aug. 2014 - Oct. 2021
 ## **Strategic and Programmatic Leadership for Analysis and Institutional Reporting**
 Identified actionable enrollment trends for C-suite leaders: Modeled cash incentives to counteract attrition, distributed campus-level data tools for student retention, calculated baselines and stretch goals, calculated payouts for 30+ schools, and wrote presentations to communicate outcomes with senior leaders. \hfill Apr. 2024 - Feb. 2025  
 
-Wrote and combined complex reproducible ETL pipelines using SQL, R, and Python for disparate and non-standard datasets on staff rosters, job titles, student enrollment & characteristics, course assignments, student-teacher linkage, and geospatial (GIS) data; drove staffing strategies at 200 elementaries \hfill Jan. 2022 - Oct. 2024  
-
-Primary Investigator (PI) for experimental use of [CogAT](https://riversideinsights.com/cognitive_abilities_test) assessment and subsequent Monte Carlo modeling of local norms from Riverside Insights; implemented cut scores for 1,630 students \hfill Jun. - Dec. 2024  
-
-Senior analyst and data manager for editions of [SchoolFinder](https://schoolfinder.houstonisd.org/Dashboard/module-resource/school-finder): reshaped messy disparate raw files into complex deliverables, negotiated with vendor, and onboarded junior staff to my github/Qualtrics workflow \hfill 2021-2024  
-
-District data manager and liaison for randomized controlled trial (RCT) by RAND Corporation [funded by Institute for Education Sciences](https://ies.ed.gov/use-work/awards/efficacy-zearn-math), evaluating the efficacy of Zearn curriculum for student math outcomes; Authored 2 years of technical documentation and coached up junior analyst for future deliverables \hfill 2022-2024  
-
-Flagged user errors, codified sources & business rules, and established daily actionable messaging to school leaders for timely resolution of errors in student course assignments and master schedules; ensured compliance with state/local regulations for EdFi and Kindergarten readiness screenings. \hfill Jul. - Oct. 2024  
-
-Data manager for program audit by [Contigo Ed](https://contigoed.org/our-work), compiling 10+ years of student outcome/achievement and programming metrics related to college, career, and military readiness (CCMR) \hfill 2023-2024  
-
-Data manager for contract with [Population And Survey Analytics](https://pasatx.com/), developing ten-year demographic forecasts using student characteristics, geocoded addresses, Census, shapefiles, and county appraiser data \hfill 2022-2024  
-
-Designed and scripted ML models to organize 250+ schools into k-means clusters across (1) building conditions, (2) academic achievement, and (3) financial risk exposure to low enrollment. \hfill Aug. 2022
-Lead analyst for rosters and teacher linkage on student perception surveys by [Panorama Education](https://www.panoramaed.com/about) \hfill Spring 2022  
-
-Primary Investigator (PI) for randomized controlled trial (RCT) study of 115,000 enrolled students over two years, exploring marketing, behavior nudges, and family decision-making for school choice. \hfill 2019-2022  
-Designed and implemented analysis of public, District, and proprietary (Change of Address) data sources to identify 500 additional students likely experiencing homelessness. \hfill Dec. 2021  
-
-Queried, organized, cleaned, and analyzed 70+ complex datasets capturing 8 years of District-wide indicators over school choice applications, lottery outcomes, student achievement, and teacher labor market choices. \hfill 2014-2021  
-
-Wrote 4 major program evaluation reports, two in collaboration with external technical assistance: causal inference analysis for improving STAAR scores, and cohort analysis for STEM teacher attrition \hfill 2014-2018  
-
-Designed collaboration with [Education Analytics](https://www.edanalytics.org/who-we-are ) on efficacy of performance pay strategies \hfill 2018  
-
-Designed and administered survey to 11,000 teachers; presented actionable findings on staff perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2018  
+District data manager and liaison for randomized controlled trial (RCT) by RAND Corporation [funded by Institute for Education Sciences](https://ies.ed.gov/use-work/awards/efficacy-zearn-math), evaluating the efficacy of Zearn curriculum for student math outcomes; Authored 2 years of technical documentation and coached up junior analyst for future deliverables \hfill 2022-2025  
 
 Led team of five analysts to write and implement reproducible scripts to pull, clean, process/ETL, reshape, join, analyze, and deliver daily work product to C-Suite leaders. \hfill July 2023 - Dec. 2024  
+
+Primary Investigator (PI) for experimental use of [CogAT](https://riversideinsights.com/cognitive_abilities_test) assessment and subsequent Monte Carlo modeling of local norms from Riverside Insights; implemented cut scores for 1,630 students \hfill Jun. - Dec. 2024  
 
 Subject matter expert on District pre-Kinder, consultant to C-suite leaders on current/future needs. Designed and implemented deep analysis to shape expansion strategy, e.g.: \hfill Dec. 2022 - Feb. 2025  
 
@@ -111,45 +87,93 @@ Subject matter expert on District pre-Kinder, consultant to C-suite leaders on c
 
 - Designed and modeled cohort attrition between PK4 and Kinder, advising leadership and shaping recruitment strategy around patterns of weak retention \hfill Dec. 2022 - Dec. 2024  
 
-Senior analyst for TEA takeover transition planning by [Good Reason Houston](https://goodreasonhouston.org/about-us/) & [Kitamba/MGT](https://www.linkedin.com/company/kitamba-management-inc); subject matter expert consulted for expertise across HR, finance, planning, and accountability domains \hfill 2023-2024  
 
-Overhauled the model and visualization for annual [Campus Demographic Report](https://tx01001591.schoolwires.net/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus%20Demographic%20Report%202021-2022.pdf), improving user uptake & increasing transparency; onboarded jr. analysts to reproducible workflow for future use. \hfill Feb. 2022 - May 2024  
+Wrote and combined complex reproducible ETL pipelines using Stata, SQL, R, Python, Power BI, and Tableau for disparate and non-standard datasets on staff rosters, job titles, student enrollment & characteristics, course assignments, student-teacher linkage, and geospatial (GIS) data for high-stakes organizational strategy; e.g., drove staffing decisions at 200 elementaries \hfill Jan. 2022 - Oct. 2024  
 
-Thought partner and active collaborator with [Houston Education Research Consortium (HERC) at Kinder Institute at Rice University](https://kinder.rice.edu/centers/houston-education-research-consortium), providing clean data and technical expertise for high-stakes projects covering school choice, post-secondary readiness, equity in program access, and student mobility \hfill 2019-2022  
+Senior analyst and data manager for three editions of [SchoolFinder](https://schoolfinder.houstonisd.org/Dashboard/module-resource/school-finder): reshaped messy disparate raw files into complex deliverables, negotiated with vendor, and onboarded junior staff to my GitHub+Qualtrics workflow \hfill 2021-2024  
 
-Ideated and project-managed evaluation of magnet programs; co-wrote presentations to senior leaders \hfill 2019-2021  
+Flagged user errors, codified sources & business rules, and established daily actionable messaging to school leaders for timely resolution of errors in student course assignments and master schedules: ensured compliance with state/local regulations for EdFi and Kindergarten readiness screenings. \hfill Jul. - Oct. 2024  
+
+Data manager for program audit by [Contigo Ed](https://contigoed.org/our-work), compiling 10+ years of student outcome/achievement and programming metrics related to college, career, and military readiness (CCMR) \hfill 2023-2024  
+
+Data manager for contract with [Population And Survey Analytics](https://pasatx.com/), developing ten-year demographic forecasts using student characteristics, geocoded addresses, Census, shapefiles, and county appraiser data \hfill 2022-2024  
+
+Senior analyst for TEA takeover transition planning by [Good Reason Houston](https://goodreasonhouston.org/about-us/) & [Kitamba/MGT](https://www.linkedin.com/company/kitamba-management-inc); subject matter expert consulted for expertise across HR, finance, planning, and accountability domains  \hfill 2023-2024  
+
+Overhauled model & visualization for annual [Campus Demographic Report](https://tx01001591.schoolwires.net/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus%20Demographic%20Report%202021-2022.pdf), improving user uptake & increasing transparency; onboarded jr. analysts to reproducible workflow for future use. \hfill Feb. 2022 - May 2024  
 
 Authored written methodology expectations for District's curriculum providers conducting 'impact evaluations' to meet C-suite's vision for data-driven decisions. \hfill Spring 2024  
 
+Lead analyst for rosters and teacher linkage on student perception surveys by [Panorama Education](https://www.panoramaed.com/about) \hfill 2022-2023  
+
 Wrangled messy raw files from internal, external, and state data to assess collaboration with [Houston Food Bank](https://www.houstonfoodbank.org/our-programs/); interpreted metadata/findings and presented actionable insights for District and NGO leaders \hfill 2022 - 2023  
 
+Designed and scripted ML models for state program to organize 250+ schools into clusters across (1) building conditions, (2) academic achievement, and (3) financial risk exposure to low enrollment. \hfill Aug. 2022  
+
+Primary Investigator (PI) for randomized controlled trial (RCT) study of 115,000 enrolled students over two years, exploring marketing, behavior nudges, and family decision-making for school choice. \hfill 2019-2022  
+
+Thought partner and active collaborator with [Houston Education Research Consortium (HERC) at Kinder Institute at Rice University](https://kinder.rice.edu/centers/houston-education-research-consortium), providing clean data and technical expertise for high-stakes projects covering school choice, post-secondary readiness, equity in program access, and student mobility \hfill 2019-2022  
+
+Designed and implemented analysis of public, District, and proprietary (Change of Address) data sources to identify 500 additional students likely experiencing homelessness. \hfill Dec. 2021  
+
+Ideated and project-managed evaluation of magnet programs; co-wrote presentations to senior leaders \hfill 2019-2021  
+
+Queried, organized, cleaned, and analyzed 70+ complex datasets capturing 8 years of org-wide indicators over school choice applications, lottery outcomes, student achievement, and teacher labor market choices. \hfill 2014-2021  
+
 Authored 20 semi-annual grant program reports to USDE: budget-to-actual narratives, SWOT analyses of implementation, and longitudinal metrics for student achievement and human capital. \hfill 2014-2021  
+
+Wrote 4 major program evaluation reports, two in collaboration with external technical assistance: causal inference analysis for improving STAAR scores, and cohort analysis for STEM teacher attrition \hfill 2014-2018  
+
+Designed collaboration with [Education Analytics](https://www.edanalytics.org/who-we-are ) on efficacy of performance pay strategies \hfill 2018  
+
+Designed and administered survey to 11,000 teachers; presented actionable findings on staff perceptions of performance based compensation strategies; implemented population-group statistical weights for findings \hfill 2015-2018  
 
 Designed continuous improvement strategies for human capital outcomes within bonus-driven program: e.g., schools doubled teacher retention by implementing my recommendations. \hfill 2015-2018
 
 ## **Operational Oversight and Leadership for Analysis and Institutional Reporting**
+Provided leadership, thought partnership, and project management for cross-functional initiatives owned by Senior Exec. Directors over Payroll, Real Estate, Controller, Treasury, Procurement, Fixed Assets, and Warehouse. \hfill 2025  
 
+Drove data-driven adjustments to improve timeliness in accounts payable and payroll actions. \hfill 2025  
 
+Liaised with Council for Great City Schools (CGCS) leadership, ensuring reliable reproducible results for >700 national metrics/KPIs across 16+ areas of operation. \hfill 2023-2025  
 
+Active appointed member of statewide advisory committee [Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance), setting data policy and reporting schedules for Texas Student Data System \hfill Aug. 2023 - Jan. 2025
 
+Conducted code reviews, QA tests, and coaching for junior and peer analysts’ work product. \hfill 2021-2024  
+
+Authored District's legal templates for external entities accessing data under Study and Audit/Evaluation exemptions to FERPA, standardizing data privacy, data sharing, and compliance procedures. \hfill Summer 2024  
+
+Active member of district Data Sharing Committee: Reviewed & revised hundreds of agreements to align over law, policy, and program needs during bi-weekly working sessions \hfill Nov. 2022 - Dec. 2024  
+
+Composed District's eight standard Exhibits to National Student Data Privacy Agreement, now embedded in District's master Terms & Conditions for all IT and Procurement \hfill Spring 2024  
+
+Co-wrote HISD's new policies & protocols for research requests and approval processes \hfill Fall 2023  
+
+Initiated internal audit of current contracts and data-sharing agreements; Findings catalyzed a year-long pause on new approvals to facilitate the design, implementation of better internal controls \hfill 2022-2023
+
+Project manager for seven-figure agreement with [NASA Johnson Space Center](https://www.nasa.gov/learning-resources-for-educators/); set metrics, handled contracts, POs, work schedules and credentials: connected teachers with STEM curriculum & job-embedded coaching \hfill 2018-2021
 
 ## **Fiscal, Procurement, and Vendor Management**
+Led negotiations on vendor data-use agreements with external partners like [TFA](https://en.wikipedia.org/wiki/Teach_For_America) and [United Way](https://unitedwayhouston.org/what-we-do/youth-success/united-way-bright-beginnings/); subject-matter expert on the availability and permissible use per data governance policies. \hfill 2021-2025
+
 Modeled capital project cost estimates for CFO over mutually exclusive operational plans \hfill 2025  
 
 Overhauled 500+ pages of internal controls for district Finance Manual, reframing technical and compliance content to improve uptake by the median campus-based user. \hfill Summer 2025
 
+Negotiated scopes of work, monitored work for hire, and resolved disputes with vendors, universities, technical assistance providers, nonprofit/research partners. \hfill 2014-2024  
+
+Initiated internal audit of all current contracts and data-sharing agreements; Findings catalyzed a year-long pause on new work to facilitate the design \& implementation of better internal controls \hfill 2022-2023
+
 Monthly review and reconciliation of financials to ensure alignment with USDE standards (EDGAR), as well as GAAP, GASB, and state regulations (FASRG) for government accounting. \hfill 2014-2021  
 
 Ensured on-time and in-scope spending: e.g., closed 84.374B with < $10.00 unspent. \hfill 2014-2021   
-
-Negotiated scopes of work, monitored work for hire, and resolved disputes with vendors, universities, technical assistance providers, nonprofit/research partners. \hfill 2014-2024  
 
 Led day-to-day financial management and project implementation for $60.3 million in federal & matching expenditures under three USDE discretionary grants (84.165A, 84.374B, and 84.374A). \hfill 2014-2021
 
 # Technical Proficiencies
 \begin{tabular}{ p{4cm}  p{1.5cm}  p{4cm}  p{1.5cm}  }
 R                   & 5 of 5  & Git, GitHub & 4 of 5 \\
-Excel               & 5 of 5  & Stata       & 4 of 5 \\
+Excel, PowerQuery   & 5 of 5  & Stata       & 4 of 5 \\
 PowerSchool SIS     & 5 of 5  & Rmd, Quarto, LaTeX  & 3 of 5 \\ 
 SharePoint Admin    & 5 of 5  & PowerBI, Tableau & 3 of 5  \\ 
 Qualtrics PowerUser & 4 of 5  & Python      & 2 of 5 \\ 
