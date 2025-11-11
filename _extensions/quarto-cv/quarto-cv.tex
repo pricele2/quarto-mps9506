@@ -23,9 +23,9 @@ $if(tables)$
 \usepackage{tabularx}             % turn off for CV, turn on for CL
 \setlength{\tabcolsep}{0pt}
 
-\usepackage{longtable,booktabs}   % turn off for CL, turn on for CV
-  \setlength\LTleft{0pt}
-  \setlength\LTright\fill
+% \usepackage{longtable,booktabs}   % turn off for CL, turn on for CV
+%   \setlength\LTleft{0pt}
+%   \setlength\LTright\fill
 $endif$
 $if(graphics)$
 \usepackage{graphicx,grffile}
@@ -128,9 +128,9 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 \lhead{}
 \chead{}
 \rhead{}
-\lfoot{} % comment out \cfoot and \rfoot for CL
- \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
- \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+% \lfoot{}                                % comment out \cfoot and \rfoot for CL
+%  \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+%  \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}

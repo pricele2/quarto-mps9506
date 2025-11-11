@@ -1,0 +1,66 @@
+---
+title: CL
+format:
+  quarto-cv-pdf: default
+filters:
+- style-text # https://github.com/leovan/quarto-style-text#readme
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+github: pricele2 # URL linked in quarto-cv.tex
+web: linkedin.com # URL linked in quarto-cv.tex 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+  # peer: peer_bib.bib
+  # other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+editor_options:
+  markdown:
+    wrap: 80
+---
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- Lorem ipsum sit dolor amet -->
+:::
+\vspace{8 mm}
+
+\apstylekinda\today
+
+\vspace{2 mm}
+
+\begin{tabular}{ p{10cm} }
+Ms. Michelle Bucaria, Chief People Officer \\
+Jamf \\
+100 Washington Ave S Suite 900 \\
+Minneapolis, Minnesota \\
+\end{tabular}
+
+Dear Ms. Bucaria:
+
+I am pleased to submit my name and resume in consideration for the the Sales Compensation Analyst position at Jamf, where your reputation as a Great Place To Work deeply resonates with my goals as I plan my imminent relocation to the Minneapolis-St. Paul metro area. With a decade of experience leading enterprise-wide analytics, **administering performance-based compensation programs**, and monitoring/documentation compliance with federal regulations, I am prepared to ensure the accuracy and transparency of your compensation strategies. My commitment is to deliver high-accuracy, documented deliverables while leveraging automation and BI tools to provide actionable, strategic insights to Sales, Finance, and Executive senior leadership.
+
+I am highly proficient in advanced Excel/PowerQuery and Google Sheets functionality, as well as R and Stata, and have hands-on experience with managing data workflows for products published daily in both Tableau and Power BI. I have worked extensively with HRIS files and performance-based compensation data during my 11 years with Houston Independent School District, including leading and evaluating two distinct bonus programs tied to campus-level outcomes and staff members’ productivity. My background includes calculating, documenting, validating, and troubleshooting complex achievement metrics and related incentive payouts on a regular schedule, while handling outliers and maintaining strict compliance to program design and regulations. I excel at partnering thoughtfully with stakeholders up and down the org chart to swiftly identify and address anomalies, and to ensure clear, timely communication through each bonus cycle.   
+
+I can proactively build automated tasks and queries, and prepare data visualizations (e.g., dashboards) to provide timely insights into quota attainment, incentive spend, and overall compensation strategy effectiveness. A core strength is my ability to perform scenario modeling, and to build what-if analyses for the differential impacts of potential plan design changes before they are rolled out. I am skilled at translating complex finance, operations, performance/sales, and HR data into clear, compelling reports and presentations for C-suite audiences.
+
+Given my decade of experience in high-volume, fast-paced data environments and my combination of technical and personal skills, I am confident that I can immediately contribute to your Commissions team. 
+Thank you for your time and consideration. I look forward to the possibility of discussing this opportunity further with the Jamf team. 
+
+
+\vspace{8 mm}
+Regards,
+
+Lauren E. Price
