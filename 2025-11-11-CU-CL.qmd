@@ -1,0 +1,70 @@
+---
+title: CL
+format:
+  quarto-cv-pdf: default
+filters:
+- style-text # https://github.com/leovan/quarto-style-text#readme
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+github: pricele2 # URL linked in quarto-cv.tex
+web: linkedin.com # URL linked in quarto-cv.tex 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+  # peer: peer_bib.bib
+  # other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+editor_options:
+  markdown:
+    wrap: 80
+---
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- Lorem ipsum sit dolor amet -->
+:::
+\vspace{8 mm}
+
+\apstylekinda\today
+
+\vspace{2 mm}
+
+\begin{tabular}{ p{10cm} }
+Dr. Jess Keating, Assistant Vice Chancellor for Data \& Analytics \\
+Office of Information Technology \\ 
+University of Colorado Boulder (CU) \\
+Boulder, Colorado \\
+\end{tabular}
+
+Dear Dr. Keating:  
+
+I am pleased to submit my application for consideration of the posted vacancy for Director of Analytics and Institutional Reporting in the Office of Information Technology at CU Boulder. My extensive experience in enterprise-level analytics and institutional reporting at Houston ISD aligns with the job's requirements. My skills in strategic leadership, data management, team coaching, and program management are highly relevant, and I have deep experience in leading efforts to assess, improve, and mature institutional data products and services. 
+
+I demonstrated leadership in analytics and institutional reporting in all three of my titles during 11 years with Houston Independent School District, where I annually supported up to 215,000 students and 26,000 employees. Rather than list these experiences in strict chronological order, I used Gemini to braid together the ‘Experiences’ bullets of my CV and organize them around three major domains of the position: (1) Strategic and Programmatic Leadership for Analysis and Institutional Reporting; (2) Operational Oversight and Leadership for Analysis and Institutional Reporting; and (3) Fiscal, Procurement, and Vendor Management. Here I highlight additional key competencies for this position:
+
+* __Team Leadership and Development.__ On the people side of data work, I am an experienced leader with six years of guiding, coaching, and mentoring technical analysts and customer-facing program staff. I set high expectations and clear parameters, establish collaborative practices and team protocols, and then both oversee and coach up where needed so our stakeholders see consistent results. I deliberately foster a high-performing, innovative, and mutually accountable team culture — aiming to be the kind of leader that educational theorist Dr. Gloria Ladson-Billings might call a 'warm demander.' My most recent experience leading the Data Science team to build, test, and ship complex data products with competing deadlines to stakeholders across the org chart prepared me well to thrive in a matrixed or "cross-functional" environment like the context described in the position description. I am prepared to guide the work of others and respond to others' needs — as I did with minimal oversight when providing strategic leadership and project management for seven senior leaders over $2.1 billion in annual operations.
+
+* __Organization-wide Structures, Governance, and Committees.__ I have participated in and represented my senior leaders in multiple data-related functions since 2022. For two years (Nov. 2022 to Dec. 2024) I represented my Senior Exec. Director for Research and Accountability as an active member of the district's Data Sharing Committee: during bi-weekly working sessions, three to five of us reviewed and revised hundreds of contracts and Terms of Service agreements to align over law, policy, program needs, and district priorities. As an extension of that committee role, I authored the District's legal templates for external entities accessing our data under the Study and Audit/Evaluation exemptions to FERPA, thereby standardizing compliance policies and procedures to meet national standards set by the [SDPC](https://sdpc.a4l.org/). I also composed District's eight standard Exhibits to the Texas version of the National Student Data Privacy Agreement, which are now embedded in District's master Terms & Conditions for all IT and Procurement contracts. During this period, I convinced my senior leadership to let me conduct an internal audit of current contracts and data-sharing agreements; my findings catalyzed a year-long pause on approvals for new work to facilitate the design and firm implementation of better internal controls. By fall 2023, I had co-written the District's new policies and protocols for research requests and approval processes. I also represented my organization from August 2023 through January 2025 as the District's sole appointed representative to the [Information Task Force, Texas Education Agency (TEA)](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance), a statewide advisory committee setting data policy and reporting schedules for the 1,000 districts participating in the Texas Student Data System.
+
+* __Survey Research Experience.__ I have direct experience with large-scale survey data collection and high-stakes analysis . In fall 2023 and fall 2024, my team created the Qualtrics instruments and back-end workflows to intake requests, de-duplicate students, differentiate pathways, and route parents' requests to test 37,227 students for eligibility in the gifted and talented program. Both years I designed the reproducible (GitHub) workflows around the qualtRics pacakge from R, relying on the API key issued to me as a system admin for the District. Earlier in my HISD tenure I designed and implemented a survey of 2,000 HISD teachers on their perspectives on performance-based compensation, calculating and implementing post-survey sample weights to infer metrics for the full district teacher workforce. And as a Master's student at Vanderbilt, I led a campus-wide data collection regarding student-facing programs for the Office of Student Affairs' annual impact report, as well as a campus-wide student survey on attitudes toward bystander intervention. 
+
+I will resist the present temptation to wax on further about my professional experiences and how these have prepared me to succeed immediately in this role — from troubleshooting and anomaly detection in data pipelines, to managing tricky relationships with stakeholders, the ins and outs of data visualization strategies, and of course the nerdy thrill of creating really precise documentation. But I must share how excited I am at the possibility of this position — to let me give back to the state that started my career in public service almost twenty years ago.
+
+I look forward to the opportunity to discuss how my professional skills, education content knowledge, and personal values can contribute to the next chapter of OIT. Thank you for your time and consideration.  
+
+\vspace{8 mm}
+Regards,
+
+Lauren E. Price
