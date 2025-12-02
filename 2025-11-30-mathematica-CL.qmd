@@ -1,0 +1,80 @@
+---
+title: CL
+format:
+  quarto-cv-pdf: default
+filters:
+- style-text # https://github.com/leovan/quarto-style-text#readme
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+github: pricele2 # URL linked in quarto-cv.tex
+web: linkedin.com # URL linked in quarto-cv.tex 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+  # peer: peer_bib.bib
+  # other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+editor_options:
+  markdown:
+    wrap: 80
+---
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- Lorem ipsum sit dolor amet -->
+:::
+\vspace{8 mm}
+
+\apstylekinda\today
+
+\vspace{2 mm}
+
+\begin{tabular}{ p{10cm} }
+Dr. Jillian Berk, Vice President \\
+Education and Employment, Mathematica \\ 
+P.O. Box 2393 \\
+Princeton, New Jersey \\
+\end{tabular}
+
+Dear Dr. Berk:  
+
+I am pleased to submit my application for Quantitative Researcher to support the Education and Employment division within Mathematica (Job ID #2318). I am pleased to submit my application for Quantitative Researcher to support the Education and Employment division within Mathematica (Job ID #2318). I am eager to join an independent firm where I can use my data skills to support projects affecting the daily lives and well-being of neighbors and learners around the world. My background is a terrific fit: a decade of leading research/analytics projects in one of the nation’s largest PK-12 school districts, deep training in causal inference, and ongoing fluency in domestic policy within education, employment, and disability domains. 
+
+My résumé highlights successes in leading complex short- and long-term data projects: from study design, field work, and data modeling through execution, publication, and continuous improvement, while ensuring technical rigor, precise parameters, and ethical handling of data at every step. And now I am excited to continue my professional journey by contributing and growing at Mathematica. 
+
+My data science skills began my graduate program at Vanderbilt (MPP, 2014), where I excelled in the quant-heavy education policy program. I repeatedly chose PhD-level electives in econometrics/causal inference, sociology, and research design. My quant skills and domain expertise both deepened over ten years of hands-on research and analytics work in Houston ISD. More recently, participating in the highly competitive IES-funded [ISEA fellowship (2025)](https://www.amplifylearn.ai/isea/) let me add “Python beginner” to my already fluent command of R, Stata, Git/GitHub, and other tools. 
+
+I have extensive experience supporting and leading teams in the planning and execution of projects for internal clients as well as external stakeholders representing funders and state/local/federal interests. I am prepared to conduct studies and support program improvement, and I have a track record of designing quasi-experimental analyses and experience implementing RCTs to identify the impacts of specific interventions  — including leading one QED and two RCTs to fulfill conditions of federal grants.
+
+I am adept at conducting systematic reviews and syntheses of disparate data sources to determine the best courses of action for improving interventions, programs, policies and practices. For example, my analyses and regional forecasts drove $200 million in plans to expand pre-Kindergarten access as part of the November 2024 bond proposal. 
+
+My duties have included developing rigorous study designs and analytic data models, negotiating access to and analyzing quantitative data from surveys and administrative sources. I have also gone beyond my duties to apply advanced techniques such as machine learning and Monte Carlo simulation where appropriate to meet the stakeholder needs for policy and program implementation; see my enclosed writing sample for a specific example with student assessment.
+
+I possess substantial technical skill in managing large, messy, and high-stakes data sets extracted via API, SQL endpoint, or XLS/CSV from disparate user-facing platforms: Qualtrics, SalesForce, PowerSchool SIS, ERP platforms like SAP and PeopleSoft, and data stores such as IBM Cognos Analytics and OnPoint. I have over a decade of hands-on experience wrangling, cleaning, reshaping, and documenting data for complex, often longitudinal projects and indicators. I earned a reputation among my colleagues for making machine-readable, reproducible magic out of stakeholders’ chaotic files.
+
+I am skilled at analyzing, understanding, and presenting/synthesizing large amounts of data to help program administrators and policymakers make decisions and drive impact. For example, HISD’s successful student recruitment program for 24-25 was built entirely on my analysis and recommendations: the District retained approximately 4,000 students more than otherwise expected, thanks to this initiative. 
+
+Crucially, I have excellent communication skills, including an ability to translate complex methods and findings for an audience of practitioners. This has included playing a behind-the-scenes role in editing and audience-coaching for written deliverables presented to senior leadership by external entities and consultants (e.g., PASA, Metis Associates, RAND Corporation). 
+
+Finally, I also bring valuable perspective on this work from the first chapter of my career:  I worked as a grants officer for a regional foundation and a program/grant manager for state government and philanthropic capacity-building initiatives across Colorado. 
+
+In closing, I am confident that my experience in rigorous analysis, teamwork, and guiding stakeholders in the use of their evidence would make me a powerful contributor to Mathematica's team. I look forward to the opportunity to discuss how my qualifications align with your needs. 
+
+Thank you for your time and consideration.  
+
+\vspace{4 mm}
+Regards,
+
+Lauren E. Price

@@ -1,0 +1,633 @@
+% CV ----
+
+
+\documentclass[
+  11pt,
+]
+{article}
+
+
+% default font
+\usepackage{ebgaramond-maths}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+
+% xetex/luatex font selection
+
+
+
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+
+
+
+\usepackage{tabularx}             % turn off for CV, turn on for CL
+\setlength{\tabcolsep}{0pt}
+
+% \usepackage{longtable,booktabs}   % turn off for CL, turn on for CV
+%   \setlength\LTleft{0pt}
+%   \setlength\LTright\fill
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+% TODO: Add custom LaTeX header directives here
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+% \usepackage{titlesec}
+% \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome5}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+% \fancyhf{} % Makes the page number go away for Cover Letter
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}                                % comment out \cfoot and \rfoot for CL
+% \cfoot{\scriptsize  Lauren E. Price, M.P.P., R.T.S.B.A. - CV - \apstylekinda\today}
+% \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Lauren E. Price, M.P.P., R.T.S.B.A.:  CV (L Price)},
+            pdfauthor={Lauren E. Price, M.P.P., R.T.S.B.A.},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+% \emph{Updated:} \apstylekinda\today
+% ^ removed from that front bar.
+
+% \usepackage{orcidlink}
+%\usepackage{academicons}
+%\definecolor{orcidlogocol}{HTML}{A6CE39}
+% \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
+
+\begin{document}
+
+\centerline{\huge \bf Lauren E. Price, M.P.P., R.T.S.B.A.}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+
+\moveleft.5\hoffset\centerline{Gallup StrengthsFinder: Input • Learner •
+Ideation • Strategic • Intellection}
+\moveleft.5\hoffset\centerline{ 
+\faEnvelope \hspace{1 mm} \href{mailto:lauren.3.price@gmail.com}{\tt Lauren.3.Price@gmail.com} \hspace{1 mm} 
+ \faPhone \hspace{1 mm}  +1-772-485-2635  \hspace{1 mm}  
+\faGithub \hspace{1 mm} \href{http://github.com/pricele2}{\tt pricele2} \hspace{1 mm}   
+ 
+ 
+ 
+\faGlobe \hspace{1 mm} \href{https://www.linkedin.com/in/lauren-e-price-mpp/}{\tt linkedin.com}   
+   
+}
+
+\vspace{2 mm}
+
+\hrule
+
+\section{Education \& Credentials}\label{education-credentials}
+
+\emph{University of Washington}, NCES Fellowship in
+\href{https://www.amplifylearn.ai/isea/}{Innovation Science for
+Education Analytics (ISEA)} \hfill June 2025
+
+\emph{TX Assoc. of School Business Officials}, Registered Texas School
+Business Administrator (R.T.S.B.A.) \hfill Sept.~2020
+
+\emph{Vanderbilt University}, Master's of Public Policy in Education
+Policy \& Leadership (3.92) \hfill May 2014
+
+\emph{University of Notre Dame}, Bachelor of Arts \emph{cum laude}
+(3.78) \hfill May 2005
+
+\section{Employment Overview}\label{employment-overview}
+
+\subsection{\texorpdfstring{\textbf{Texas \hfill 2014 -
+2025}}{Texas 2014 - 2025}}\label{texas-2014---2025}
+
+\emph{Houston Independent School District (HISD)}
+
+Director, Finance Project Management \hfill Jan.~- Sep.~2025
+
+Deputy Director \& Senior Analyst, Data Science \& Analytics
+\hfill Oct.~2021 - Dec.~2024
+
+Grant Manager \& Program Analyst, Special Revenue \hfill Aug.~2014 -
+Oct.~2021
+
+\subsection{\texorpdfstring{\textbf{Tennessee
+\hfill 2012-2014}}{Tennessee 2012-2014}}\label{tennessee-2012-2014}
+
+\emph{Metro Nashville Public Schools.} Summer Associate for Research and
+Policy \hfill 2014
+
+\emph{Vanderbilt University.} Graduate Research Assistant \& Summer
+Program Evaluation Associate \hfill 2012-2014
+
+\subsection{\texorpdfstring{\textbf{Colorado \hfill 2005 -
+2011}}{Colorado 2005 - 2011}}\label{colorado-2005---2011}
+
+\emph{Boys Hope Girls Hope of Colorado (Denver).} Development Director
+\hfill 2010-2011
+
+\emph{Community Resource Center (Denver).} Program Associate \& Project
+Coordinator \hfill 2008-2010
+
+\emph{Robert B. Sharp Company (Denver).} Project Coordinator,
+Feasibility Studies \& Capital Campaigns \hfill 2007-2008
+
+\emph{El Pomar Foundation (Co.~Springs).} Program Coordinator \&
+Associate Grants Officer \hfill 2005-2007
+
+\section{Experiences}\label{experiences}
+
+\subsection{\texorpdfstring{\textbf{Causal Inference and Study
+Design}}{Causal Inference and Study Design}}\label{causal-inference-and-study-design}
+
+District data manager and liaison for randomized controlled trial (RCT)
+by RAND Corporation
+\href{https://ies.ed.gov/use-work/awards/efficacy-zearn-math}{funded by
+Institute for Education Sciences}, evaluating the efficacy of Zearn
+curriculum for student math outcomes; Authored 2 years of technical
+documentation and coached up junior analyst for future needs.
+\hfill 2022-2025
+
+Primary Investigator (PI) for experimental use of
+\href{https://riversideinsights.com/cognitive_abilities_test}{CogAT}
+assessment and subsequent Monte Carlo modeling of local norms;
+implemented cut scores for 1,630 students. \hfill Jun.~- Dec.~2024
+
+Authored written methodology expectations for District's curriculum
+providers conducting `impact evaluations' to meet C-suite's vision for
+data-driven decisions. \hfill Spring 2024
+
+Co-wrote HISD's new policies \& protocols for research requests and
+approval processes. \hfill Fall 2023
+
+Primary Investigator (PI) for randomized controlled trial (RCT) study of
+115,000 enrolled students over two years, exploring marketing, behavior
+nudges, and family decision-making for school choice. \hfill 2019-2022
+
+Wrote 4 major program evaluation reports, two in collaboration with
+external technical assistance: causal inference analysis for improving
+STAAR scores, and cohort analysis for STEM teacher attrition.
+\hfill 2014-2018
+
+Designed causal inference study in collaboration with
+\href{https://www.edanalytics.org/who-we-are}{Education Analytics} on
+performance pay strategies. \hfill 2018
+
+Designed continuous improvement strategies for human capital outcomes
+within bonus-driven program: Schools doubled teacher retention by
+implementing my recommendations. \hfill 2015-2018
+
+\subsection{\texorpdfstring{\textbf{Program Evaluation and Social Policy
+}}{Program Evaluation and Social Policy }}\label{program-evaluation-and-social-policy}
+
+Liaised with Council for Great City Schools (CGCS) leadership, ensuring
+reliable reproducible results for local and national KPIs across 16+
+areas of operation. \hfill 2023-2025
+
+Defined and executed agency-wide strategy, by overhauling 500+ pages of
+internal controls (Finance Manual) to reframe technical and regulatory
+content for the average campus-based user. \hfill Summer 2025
+
+Appointed member of statewide advisory committee
+\href{https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance}{Information
+Task Force, Texas Education Agency (TEA)}, setting data policy and
+reporting schedules for over 1,000 districts. \hfill Aug.~2023 -
+Jan.~2025
+
+Negotiated evaluation scopes of work, monitored work for hire, and
+resolved disputes with vendors, universities, technical assistance
+providers, nonprofit/research partners. \hfill 2014-2024
+
+Subject matter expert on District pre-K policy, consultant to C-suite
+leaders on current/future needs. Designed and implemented deep
+evaluation to shape expansion strategy, e.g.: \hfill Dec.~2022 -
+Feb.~2025
+
+\begin{itemize}
+\item
+  Built initial models and business rules for ArcGIS map tool showing
+  Seats Available, led model improvement for SY2425, and coached jr.
+  analysts to reproduce workflows and \emph{ad hoc} requests.
+  \hfill Sep.~2023 - Dec.~2024
+\item
+  Allocated \$200M of bond investments over my metrics for future
+  supply/demand. \hfill Mar.~- Jun.~2024
+\item
+  Determined feasibility of expansion at +20 schools: Led team of
+  analysts and program specialists incorporating floorplans, Google
+  Earth, and in-person walkthroughs. \hfill Mar.~2024
+\item
+  Built multivariate scoring model for Chief Academics Officer to
+  understand pre-K supply/demand at 160+ campuses; oversaw \& QA jr.
+  analyst's downstream deliverables. \hfill Mar.~2024
+\item
+  Implemented reframing of district policy to supply/demand (staffed
+  seats/kids). \hfill Feb.~2023
+\item
+  Designed and modeled cohort attrition between PK4 and Kinder, advising
+  leadership and shaping recruitment strategy around patterns of weak
+  retention. \hfill Dec.~2022 - Dec.~2024
+\end{itemize}
+
+Senior analyst for state takeover transition planning by
+\href{https://goodreasonhouston.org/about-us/}{Good Reason Houston} \&
+\href{https://www.linkedin.com/company/kitamba-management-inc}{Kitamba/MGT};
+subject matter expert consulted for expertise across HR, finance,
+planning, and accountability. \hfill 2023-2024
+
+Data manager for program audit by
+\href{https://contigoed.org/our-work}{Contigo Ed}, compiling 10+ years
+of student outcome/achievement and programming metrics related to
+college, career, and military readiness (CCMR). \hfill 2023-2024
+
+Wrangled messy raw files from internal, external, and state data to
+assess collaboration with
+\href{https://www.houstonfoodbank.org/our-programs/}{Houston Food Bank};
+interpreted metadata/findings and presented actionable insights for
+District and NGO leaders. \hfill 2022-2023
+
+Initiated internal audit of current contracts and data-sharing
+agreements; Findings catalyzed a year-long pause on new work to
+facilitate the design, implementation of better internal controls.
+\hfill 2022-2023
+
+Project manager for seven-figure agreement with
+\href{https://www.nasa.gov/learning-resources-for-educators/}{NASA
+Johnson Space Center}; handled contracts, POs, work schedules and
+credentials: connected teachers with STEM curriculum and job-embedded
+coaching. \hfill 2018-2021
+
+Authored 20 semi-annual program reports to USDE, including
+budget-to-actual narratives, SWOT analyses of implementation, and
+longitudinal metrics for student achievement and human capital.
+\hfill 2014-2021
+
+Led day-to-day financial management, planning, evaluation, and
+implementation for \$60.3 million in federal \& matching expenditures
+under three USDE discretionary grants (84.165A, 84.374B, and 84.374A).
+\hfill 2014-2021
+
+\subsection{\texorpdfstring{\textbf{Data Analysis, Modeling, and
+Dissemination}}{Data Analysis, Modeling, and Dissemination}}\label{data-analysis-modeling-and-dissemination}
+
+Identified actionable enrollment trends for C-suite leaders: Modeled
+cash incentives to counteract attrition, distributed campus-level data
+tools for student retention, calculated baselines and stretch goals,
+calculated payouts for 30+ schools, and wrote presentations to
+communicate outcomes with senior leaders. \hfill Apr.~2024 - Feb.~2025
+
+Drove data-driven adjustments to improve timeliness in accounts payable
+and payroll actions. \hfill 2025
+
+Modeled capital project cost estimates for CFO over mutually exclusive
+operational plans. \hfill 2025
+
+Led negotiations on data-use agreements with external partners like
+\href{https://en.wikipedia.org/wiki/Teach_For_America}{TFA} and
+\href{https://unitedwayhouston.org/what-we-do/youth-success/united-way-bright-beginnings/}{United
+Way}; subject-matter expert on the availability and permissible use per
+data governance policies. \hfill 2021-2025
+
+Composed District's eight standard Exhibits to National Student Data
+Privacy Agreement, now embedded in District's master Terms \& Conditions
+for all IT and Procurement. \hfill Spring 2024
+
+Solved a material data governance weakness by authoring District's legal
+templates for external entities accessing data, greatly strengthening
+protections for data privacy. \hfill Jan.~- Oct.~2024
+
+Drove staffing decisions at 200 elementaries: Wrote and modeled complex
+reproducible ETL pipelines across SQL, R, Python, and PowerBI to clean,
+join, and publish non-standard datasets on staff rosters, job titles,
+student characteristics, course assignments, student-teacher linkage,
+and geospatial data. \hfill Jan.~2022 - Oct.~2024
+
+Established seamless workflow for timely resolution of errors in student
+course assignments and master schedules: flagged user errors, codified
+sources \& business rules, and established daily actionable messaging to
+school leaders; ensured compliance with state/local regulations for EdFi
+and Kindergarten readiness screenings. \hfill Jul.~- Oct.~2024
+
+Led team of five analysts to write and implement reproducible scripts to
+pull, clean, process/ETL, reshape, join, analyze, and deliver daily work
+product to C-Suite leaders. \hfill July 2023 - Dec.~2024
+
+Senior analyst and data manager for editions of
+\href{https://schoolfinder.houstonisd.org/Dashboard/module-resource/school-finder}{SchoolFinder}
+tool: reshaped messy raw files into complex deliverables, negotiated
+with vendor, and onboarded junior staff to my github/Qualtrics workflow.
+\hfill 2021-2024
+
+Conducted code reviews, QA tests, and coaching for junior and peer
+analysts' work product. \hfill 2021-2024
+
+Active member of district Data Sharing Committee: Reviewed \& revised
+hundreds of agreements to align over law, policy, and program needs
+during bi-weekly working sessions. \hfill Nov.~2022 - Dec.~2024
+
+Overhauled model \& visualization for annual
+\href{https://tx01001591.schoolwires.net/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus\%20Demographic\%20Report\%202021-2022.pdf}{Campus
+Demographic Report}, thereby improving user uptake and increasing
+transparency; onboarded jr. analysts to my reproducible workflows for
+future use. \hfill 2022-2024
+
+Data manager for contract with \href{https://pasatx.com/}{Population And
+Survey Analytics}, developing ten-year demographic forecasts using
+student characteristics, geocoded addresses, Census, shapefiles, and
+county appraiser data. \hfill 2022-2024
+
+Designed and scripted ML models to organize 250+ schools into
+\emph{k}-means clusters for state grant, across (1) building conditions,
+(2) academic achievement, and (3) risk exposure to low enrollment.
+\hfill Aug.~2022
+
+Modeled \& programmed complex student-teacher linkage on high-stakes
+survey by \href{https://panoramaed.com/about}{Panorama Education}.
+\hfill 2022
+
+Designed and implemented analysis of public, District, and proprietary
+(Change of Address) data sources to identify 500 additional students
+likely experiencing homelessness. \hfill Dec.~2021
+
+Thought partner and active collaborator with
+\href{https://kinder.rice.edu/centers/houston-education-research-consortium}{Houston
+Education Research Consortium (HERC) at Kinder Institute at Rice
+University}, providing clean data and technical expertise for
+high-stakes projects covering school choice, post-secondary readiness,
+equity in program access, and student mobility. \hfill 2019-2022
+
+Ideated and project-managed evaluation of magnet programs; co-wrote
+presentations to senior leaders. \hfill 2019-2021
+
+Monthly review and reconciliation of financials to ensure alignment with
+USDE standards (EDGAR), as well as GAAP, GASB, and state regulations
+(FASRG) for government accounting. \hfill 2014-2021
+
+Ensured on-time and in-scope spending: e.g., closed 84.374B with
+\textless{} \$10.00 unspent. \hfill 2014-2021 Queried, organized,
+cleaned, and analyzed 70+ complex datasets capturing 8 years of
+District-wide indicators over school choice applications, lottery
+outcomes, student achievement, and teacher labor market choices.
+\hfill 2014-2021
+
+Designed and administered survey to 11,000 teachers; presented
+actionable findings on staff perceptions of performance based
+compensation strategies; implemented population-group statistical
+weights for findings. \hfill 2015-2018
+
+\section{Technical Proficiencies}\label{technical-proficiencies}
+
+\begin{tabular}{ p{4cm}  p{1.5cm}  p{4cm}  p{1.5cm}  }
+R                   & 5 of 5  & Git, GitHub & 4 of 5 \\
+Excel, PowerQuery   & 5 of 5  & Stata       & 4 of 5 \\
+PowerSchool SIS     & 5 of 5  & Rmd, Quarto, LaTeX  & 3 of 5 \\ 
+SharePoint Admin    & 5 of 5  & PowerBI, Tableau & 3 of 5  \\ 
+Qualtrics PowerUser & 4 of 5  & Python      & 2 of 5 \\ 
+PeopleSoft, SAP ERP & 4 of 5 & SQL      & 2 of 5 \\
+\end{tabular}
+
+\section{Invitations \& Awards}\label{invitations-awards}
+
+Nov 2025. \emph{IS594 Change Catalyst}, Guest Speaker \hfill Univ. of
+Illinois School of Information Sciences
+
+Oct 2024. \emph{EDAD 688 Education Policy Series}, Guest Speaker
+\hfill Texas A\&M College of Education
+
+Apr 2023. \emph{IS595 Competitive Intelligence \& Knowledge Management},
+Guest Speaker \hfill Univ. of Illinois
+
+Jul 2022. \emph{Diversity Scholarship}, Conference and Workshop
+\hfill \href{https://posit.co/conference/faq/}{posit::conf}, formerly
+RStudio
+
+Oct 2021. \emph{Featured Publication}, Teacher Incentive Fund (TIF)
+Evaluations \hfill \href{https://www.arniedocs.info/}{ArnieDocs}
+
+Oct 2021. ``Making Performance Pay Pay Off,'' Conference Presentation
+\hfill Council of Great City Schools
+
+Nov 2018. \emph{SOCI 437/537 Sociology of Education}, Guest Speaker
+\hfill Rice University
+
+May 2015. ``Parents, Teachers, and Title I,'' Conference Presentation
+\hfill \href{https://crsea.org/crt-101/}{CRSEA} 9th Annual Conference
+
+\section{Selected Publications}\label{selected-publications}
+
+Pane, J., Doss, C., Todd, I., \& Seaman, D. (2025). Efficacy of Zearn
+Math over two years in grades 3 to 5: An experiment in Texas.
+(EdWorkingPaper: 25-1211). Retrieved from Annenberg Institute at Brown
+University: \url{https://doi.org/10.26300/e3bq-7g59}
+
+Price, L., \& Islam, F. (2025, February).
+\href{https://www.linkedin.com/in/lauren-e-price-mpp/overlay/1741980965844/single-media-viewer?type=DOCUMENT&profileId=ACoAAADz6gABmAId2NX7YwelXulJgIDVVKZ5mts&lipi=urn\%3Ali\%3Apage\%3Ad_flagship3_profile_view_base\%3BGrQgHVtmTRmsyGnRySj2Dg\%3D\%3D}{Technical
+Documentation}: Local Norms \& GT Matrix Scores for Students Entering
+Kindergarten in SY25-26. HISD: Data Science \& Analytics.
+
+Price, L., \& Cortez, J. (2024, September 30). Technical Documentation
+for Efficacy of Zearn Math, IES Award
+\href{https://ies.ed.gov/funding/grantsearch/details.asp?ID=5835}{R305A230170}.
+HISD: Data Science \& Analytics.
+
+Price, L., Lasode, M., \& Powers, K. (2023, December 13). Memorandum To
+Chief Financial Officer: FY25 Forecasting Models for Student Average
+Daily Attendance. HISD: Internal Memo.
+
+Lasode, M., Price, L., Abdoli, M., \& Hovey, I. (2022, July 7).
+\href{https://tx01001591.schoolwires.net/site/handlers/filedownload.ashx?moduleinstanceid=392028&dataid=424429&FileName=Campus\%20Demographic\%20Report\%202021-2022.pdf}{2021-2022
+Campus Demographic Report}. HISD: Research and Accountability.
+
+Price, L., \& Scuello, M. (2022, May). Evidence of Promise from the
+Magnet Schools Assistance Program: Recruiting Students to HISD's
+Secondary STEM Magnet Schools. HISD: Internal Publication.
+
+Price, L., \& Matney, A. (2021, December 14). Memorandum to Executive
+Officer, Student Support: Additional Students Identified as Eligible
+Under McKinney-Vento. HISD: Internal Memo.
+
+Aulicino, C., Rinehart, C., \& Price, L. (2021, October). Secondary STEM
+Magnet Programs Study: Year 2. Metis Associates: Internal Publication
+for HISD.
+
+Aulicino, C., Rinehart, C., \& Price, Lauren. (2020, September). STEM
+Magnet Program Study: Year 1. Metis Associates: Internal Publication for
+HISD.
+
+Price, L., Christian, M., \& Stevens, C. (2018a). A Matched-Comparison
+Analysis of Math and Science STAAR Scores: Teacher Incentive Fund STEM
+Grant in Houston ISD. HISD: Research And Accountability.
+\href{https://eric.ed.gov/}{ERIC Number ED603680}.
+
+Price, L., Cramer, E., Milanowski, A., Mader, J., Robertson, D., \&
+Stevens, C. (2018b). A Human Capital Approach to Improving STEM
+Education: Teacher Incentive Fund STEM Grant in Houston ISD. HISD:
+Research and Accountability. \href{https://eric.ed.gov/}{ERIC Number
+ED603681}.
+
+Price, L., Provencher, S., \& Stevens, C. (2018c). A Descriptive
+Overview: Teacher Incentive Fund STEM Grant in Houston ISD. HISD:
+Research and Accountability. \href{https://eric.ed.gov/}{ERIC Number
+ED603678}.
+
+Price, L., \& Stevens, C. (2017). Teacher Incentive Fund, Cohort
+3---Looking Back, Around, And Ahead: HISD's Viewfinder For Teacher And
+Leader Effectiveness. HISD: Research and Accountability.
+
+Price, L., Jordan, S., \& Stevens, C. (2016, January). Preferences and
+Perspectives on Teacher Compensation, 2014-2015. HISD: Internal
+Publication.
+
+Price, L. (2014). \emph{Parents and Teachers in Title I Schools: A
+Critical Race Theory Analysis of Parent Engagement} {[}Unpublished
+master's thesis{]}. Peabody College of Education and Human Development,
+Vanderbilt University.
+
+\section{Skills \& Competencies}\label{skills-competencies}
+
+Analytical Skills • Business Insights • Business Process • Children's
+Online Privacy Protection Act ``COPPA'' at 16 CFR § 312 • Client
+Relations • Community Impact • Compilation • Data Analytics • Data
+Governance • Data Integrity • Data Interpretation • Data Management •
+Data Manipulation • Data Modeling • Data Retention • Data Privacy • Data
+Science • Data Strategies • Data Systems • Database Administration •
+Database Systems • Databases • Econometrics • Education Department
+General Administrative Regulations ``EDGAR'' at 2 CFR and 34 CFR •
+Extract, Transform, Load (ETL) • Family Educational Rights and Privacy
+Act ``FERPA'' at 34 CFR § 99 • Large-scale Data Analysis • Leadership •
+Legal Requirements • Logic Models • Machine Learning • Metadata •
+Microsoft Excel • Microsoft Office • Policy Analysis • Policy Writing •
+Presentations • Primary Research • Privacy Regulations • Problem Solving
+• Program Assessment • Program Evaluation • Project Management • Quality
+Assurance • R • RStudio/Posit • Relational Databases • Reporting
+Requirements • Spreadsheets • Stata • Statistical Analysis • Statistics
+• Statutes • Team Management • Written Communication
+
+\end{document}
