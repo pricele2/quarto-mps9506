@@ -1,0 +1,77 @@
+---
+title: CL
+format:
+  quarto-cv-pdf: default
+filters:
+- style-text # https://github.com/leovan/quarto-style-text#readme
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+github: pricele2 # URL linked in quarto-cv.tex
+web: linkedin.com # URL linked in quarto-cv.tex 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+  # peer: peer_bib.bib
+  # other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+editor_options:
+  markdown:
+    wrap: 80
+---
+```{r}
+#| include: false
+color <- '#ffffff' 
+opacity <- 0.8
+font <- 'Times New Roman'
+font_size <- 2
+```
+::: {.style-text color="`{r} color`"}
+<!-- Lorem ipsum sit dolor amet -->
+:::
+\vspace{8 mm}
+
+\apstylekinda\today
+
+\vspace{2 mm}
+
+\begin{tabular}{ p{10cm} }
+Mr. Mark Paik, Assistant Superintendent \\
+Strategy, Data, and Accountability \\ 
+Detroit Public Schools Community District \\
+3011 W. Grand Blvd. \\
+Detroit, Michigan \\
+\end{tabular}
+
+\vspace{2 mm}
+Dear Mr. Paik:  
+
+I am pleased to submit my application for the position of Senior Director - Research & Data Science in the Office of Strategy, Data, and Accountability. I am eager to use my skills to lead data projects that affect the daily lives of children and their communities. My background is a great fit: a decade of leading research/analytics projects in one of the nation's largest PK-12 districts, deep experience in modern data science workflows, and a demonstrated history of collaborating across the org chart to deliver actionable insights for students, teachers, and leaders.
+
+I demonstrated leadership in analytics, program evaluation, and data science in all three of my roles during 11 years with Houston Independent School District, where I supported up to 215,000 students and 26,000 employees each year. Rather than list my relevant accomplishments in strict chronological order, I used Gemini to organize the body of my enclosed C.V. around three major domains of the position: (1) Strategic Data Leadership; (2) Research Operations & Infrastructure; and (3) Team Empowerment & Stakeholder Engagement. My résumé highlights successes in leading complex short- and long-term data projects: from study design, field work, and modeling existing administrative data through project scoping, execution, publication, and continuous improvement, while ensuring technical rigor, precise parameters, reproducible analyses, and ethical handling of data at every step. 
+
+My data science skills began my graduate program at Vanderbilt (M.P.P., 2014), where I excelled in the quant-heavy education policy program. I repeatedly chose Ph.D.-level electives in econometrics/causal inference, sociology, and research design. My quant skills and domain expertise both have deepened over ten years of hands-on research and analytics work in Houston ISD. Most recently, in 2025 I participated in the highly competitive NCES-funded [ISEA fellowship (2025)](https://www.amplifylearn.ai/isea/) for fifteen weeks of workshops on education analysis and machine learning strategies; this let me add “Python beginner” to my already fluent command of R, Stata, Git/GitHub, and other tools. This program also inspired me to begin my current studies: in 2026, I plan to sit the qualification exam for the globally recognized [Certified Data Management Professional (CDMP) credential](https://dama.org/certification/about-cdmp-certification/) from DAMA International. 
+
+From the description, this Senior Director position requires the ability to firmly align technical work and team capacity with the District's biggest goals — so that analysis is not an end in itself, but a powerful tool to drive strategy and continuous improvement. I have many experiences in pushing research into practices that meaningfully drive District strategy. For example, my analyses and regional forecasts drove $200 million in HISD plans to dramatically expand pre-Kindergarten access, via their November 2024 bond proposal. More recently, HISD’s successful student recruitment/retention program for 24-25 was built entirely on my analysis and recommendations: thanks to this initiative, the District retained approximately 4,000 students more than expected and paid out over \$400,000 in bonuses to campus staff. 
+
+Crucially, I have experience managing research/data projects of widely varying scopes and durations, from super-fast responsive analyses of existing data for specific questions, to wide-ranging, proactive projects requiring the collection of original data by third party researchers over several years. Each project has unique challenges and rewards, but they share a common denominator for a successful completion: a consistent team environment built on data privacy, code standards, pipelines, written documentation, and agreed-upon sources of truth.  
+
+I was fortunate to play a key role in HISD's most recent (2023) overhaul of all research review and approval processes, which was catalyzed in 2022 by my proactive audit of existing contracts, agreements, and approvals. In 2024, I also led the District's related legal workstream by drafting our legal template contracts and exhibits for the three FERPA exceptions most frequently seen in contemporaneous work  — school official, studies, and audit/evaluation. My commitment to the privacy of student and employee data runs very deep, and these new processes and systems provided us the opportunity to build more sustainable systems to better align with District priorities, and to become far more deliberate about which elements would be shared with which outside entities. 
+
+On the people side of the work, I am an experienced leader with over 3 years of guiding, coaching, and mentoring technical analysts. I set high expectations and clear processes, establish collaborative practices and team norms, and then both oversee and coach up where needed so our stakeholders see consistent results. I deliberately foster a high-performing, mutually accountable team culture of curiosity — aiming to be the kind of leader that educational theorist Dr. Gloria Ladson-Billings might call a "warm demander." My experience leading a data team to build, publish, and maintain complex deliverables with competing deadlines for stakeholders across the org chart has prepared me well to thrive in a matrixed environment like a large urban district.
+
+I will resist the present temptation to wax on further about my professional experiences and how these have prepared me to succeed immediately in this role — from troubleshooting and anomaly detection in data pipelines, to managing tricky relationships with internal and external stakeholders, the ins and outs of data visualization strategies, and of course the nerdy thrill of creating really precise documentation. I look forward to the opportunity to discuss how my professional skills, PK-12 public school content knowledge, and personal values can contribute to DPSCD's commitment to the city's students, and to the adults who love and support them. 
+
+Thank you for your time and consideration.  
+
+\vspace{4 mm}
+
+Regards,
+
+Lauren E. Price
