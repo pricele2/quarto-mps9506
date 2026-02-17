@@ -74,7 +74,7 @@ $else$
 $endif$
 $if(dir)$
 \ifxetex
-  % load bidi as late as possible as it modifies e.g. graphicx
+% load bidi as late as possible as it modifies e.g. graphicx
   $if(latex-dir-rtl)$
   \usepackage[RTLdocument]{bidi}
   $else$
@@ -101,17 +101,17 @@ $endfor$
 \sectionfont{\rmfamily\mdseries\large\bf}
 \subsectionfont{\rmfamily\mdseries\normalsize\scshape}
 
-% Make lists without bullets
-\renewenvironment{itemize}{
-  \begin{list}{}{
-    \setlength{\leftmargin}{1.5em}
-  }
-}{
-  \end{list}
-}
+% Make lists without bullets  # TURN OFF FOR CV 
+% \renewenvironment{itemize}{
+%   \begin{list}{}{
+%     \setlength{\leftmargin}{1.5em}
+%   }
+% }{
+%   \end{list}
+% }
 
 % Make parskips rather than indent with lists.
-\usepackage{parskip}
+ \usepackage{parskip}
 % \usepackage{titlesec}
 % \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
 % \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
@@ -129,8 +129,8 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 \chead{}
 \rhead{}
 \lfoot{}                                % comment out \cfoot and \rfoot for CL
-% \cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
-% \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+\cfoot{\scriptsize  $author-meta$ - $title$$if(updated)$$else$ - $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
@@ -185,11 +185,11 @@ $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
 $if(email)$$if(fontawesome)$\faEnvelope \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:lauren.3.price@gmail.com}{\tt $email$} \hspace{1 mm}$endif$ 
 $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
 $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/pricele2}{\tt $github$} \hspace{1 mm} $endif$  
-$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ 
-$if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ 
-$if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ 
-$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://www.linkedin.com/in/lauren-e-price-mpp/}{\tt $web$}  $endif$ 
-$if(kaggle)$$if(fontawesome)$\faKaggle \hspace{1 mm}$else$\emph{Kaggle:}$endif$ \href{http://kaggle.com/$kaggle$}{\tt $kaggle$} \hspace{1 mm} $endif$   
+% $if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ 
+% $if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ 
+% $if(orcid)$$if(fontawesome)$\orcidlink{$orcid$} \hspace{.5 mm}$else$\emph{ORCID:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm} $endif$ 
+% $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{https://www.linkedin.com/in/lauren-e-price-mpp/}{\tt $web$}  $endif$ 
+% $if(kaggle)$$if(fontawesome)$\faKaggle \hspace{1 mm}$else$\emph{Kaggle:}$endif$ \href{http://kaggle.com/$kaggle$}{\tt $kaggle$} \hspace{1 mm} $endif$   
 $if(updated)$ | \emph{Updated:} $if(rdateformat)$$rdateformat$$else$\apstylekinda\today$endif$$endif$}
 
 \vspace{2 mm}
