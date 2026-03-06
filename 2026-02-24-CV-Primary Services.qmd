@@ -1,0 +1,105 @@
+---
+title: C.V.
+format:
+  quarto-cv-pdf: default
+author: Lauren E. Price, M.P.P., R.T.S.B.A.
+date: last-modified
+phone: +1-772-485-2635
+# address: "Gallup StrengthsFinder: Input • Learner • Ideation • Strategic • Intellection"
+email: Lauren.3.Price@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+# github: pricele2 # github account
+web: linkedin.com 
+fontawesome: yes
+nocite: '@*'
+# bibliography: 
+#   peer: peer_bib.bib
+#   other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+# https://github.com/orgs/quarto-dev/discussions/1182#discussioncomment-2984986 
+# U+2022 	• 	Bullet 	0916
+---
+
+<!-- # Summary -->
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  -->
+
+<!-- # Experience  -->
+\hrule
+
+## **Houston Independent School District \hfill 2014 - 2025**
+*Director, Finance Project Management* \hfill 2025
+
+*Senior Analyst then Deputy Director (CTM), Data Science & Analytics* \hfill 2021 - 2024
+
+*Program Analyst & Grant Manager, Special Revenue* \hfill 2014 - 2021
+
+- Defined and executed agency-wide financial regulations by overhauling 500+ page Finance Manual to reframe internal controls and process maps for the average user. \hfill Summer 2025 
+
+- Modeled bonuses, set student retention baselines & stretch goals, calculated $430,000 payout to 35 schools, tracked interim progress, and reported outcomes to C-suite and bonus recipients. \hfill Apr. 2024 - Feb. 2025
+
+- Lead process changes and development of monitoring tools to eliminate errors in payroll actions. \hfill 2025
+
+- Negotiated scopes of work and pricing, monitored work for hire, and resolved disputes with vendors, universities, technical assistance providers, nonprofit partners, researchers. \hfill 2014-2024
+
+- Led team of five analysts in the design/implementation of complex, high-stakes workflows. \hfill 2021-2024
+
+- Led day-to-day financial management, 12 FTE, and program implementation for $60.3 million in federal & matching expenditures under three federal discretionary grants.  \hfill 2014-2021
+
+- Authored 20 program compliance reports to federal agencies: budget-to-actual, SWOT narrative of implementation, and metrics from 70+ datasets covering grant outcomes.   \hfill 2014-2021
+
+- Conducted monthly financial review and reconciliation across 8 cost centers to ensure alignment with federal code, as well as GAAP, GASB, and state regulations (FASRG) for government accounting. \hfill 2014-2021
+
+- Project lead for seven-figure agreement with [NASA Johnson Space Center](https://www.nasa.gov/learning-resources-for-educators/); handled contracts, POs, work schedules and IT credentials to connect teachers with curriculum and job-embedded coaching. \hfill 2018-2021
+
+## **Nonprofits in Tennessee and Colorado \hfill 2005-2014**
+
+<!-- Summer Associate for Research and Policy, *Metro Nashville Public Schools* \hfill 2014 -->
+
+Practicum Intern for Nashville Promise Neighborhood Grant, *Martha O'Bryan Center* \hfill 2013-2014
+
+Graduate Research Assistant & Program Evaluation Associate, *Vanderbilt University* \hfill 2012-2014
+
+Development Director, *Boys Hope Girls Hope of Colorado* \hfill 2010-2011
+
+Program Associate & Project Coordinator, *Community Resource Center*  \hfill 2008-2010
+
+Project Coordinator, Feasibility Studies \& Capital Campaigns, *Robert B. Sharp Company* \hfill 2007-2008
+
+Program Coordinator & Associate Grants Officer, *El Pomar Foundation* \hfill 2005-2007
+
+## **Education & Credentials**
+
+<!-- \hrule -->
+
+<!-- *DAMA International:* [Certified Data Management Professional (CDMP)](https://dama.org/certification/about-cdmp-certification/) \hfill In Progress -->
+
+<!-- NCES Fellowship in Innovation Science for Education Analytics  \hfill University of Washington, 2025 -->
+<!-- https://www.amplifylearn.ai/isea/ -->
+
+Registered Texas School Business Administrator (R.T.S.B.A.) \hfill TX Assoc. of School Business Officials, 2020
+
+<!-- - Coursework concentrations in Payroll, Accounting & Finance, and Federal Grants -->
+
+Master's of Public Policy in Education Policy & Leadership \hfill Vanderbilt University, 3.92 GPA
+
+<!-- - *Parents and Teachers in Title I Schools* [Unpublished master's thesis] -->
+
+Bachelor of Arts, *cum laude* \hfill University of Notre Dame, 3.78 GPA
+
+<!-- - Double major in Theology and Music -->
+
+<!-- # Technical Proficiencies -->
+<!-- \hrule -->
+<!-- \begin{tabular}{ p{4cm}  p{1.5cm}  p{4cm}  p{1.5cm}  } -->
+<!-- R                   & 5 of 5  & Git, GitHub & 4 of 5 \\ -->
+<!-- Excel, PowerQuery   & 5 of 5  & Stata       & 4 of 5 \\ -->
+<!-- PowerSchool SIS     & 5 of 5  & Rmd, Quarto, LaTeX  & 3 of 5 \\  -->
+<!-- SharePoint Admin    & 5 of 5  & PowerBI, Tableau & 3 of 5  \\ -->
+<!-- Qualtrics PowerUser & 4 of 5  & Python      & 2 of 5 \\ -->
+<!-- PeopleSoft, SAP ERP & 4 of 5 & SQL      & 2 of 5 \\ -->
+<!-- \end{tabular} -->
