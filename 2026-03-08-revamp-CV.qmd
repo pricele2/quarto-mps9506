@@ -34,33 +34,22 @@ csl: apa-cv.csl
 ## **Houston Independent School District \hfill 2014 - 2025**
 *Director, Finance Project Management* \hfill 2025
 
-*Senior Analyst then Deputy Director (CTM), Data Science & Analytics* \hfill 2021 - 2024
+*Deputy Director (CTM), Data Science & Analytics* \hfill 2021 - 2024
+*Senior Analyst, Data Science & Analytics* 
 
-*Program Analyst & Grant Manager, Special Revenue* \hfill 2014 - 2021
+*Grant Manager & Program Analyst, Special Revenue* \hfill 2014 - 2021
 
-- Defined and executed agency-wide financial regulations by overhauling 500+ page Finance Manual to reframe internal controls and process maps for the average user. \hfill Summer 2025 
-
-- Modeled bonuses, set student retention baselines & stretch goals, calculated $430,000 payout to 35 schools, tracked interim progress, and reported outcomes to C-suite and bonus recipients. \hfill Apr. 2024 - Feb. 2025
-
-- Lead process changes and development of monitoring tools to eliminate errors in payroll actions. \hfill 2025
-
-- Negotiated scopes of work and pricing, monitored work for hire, and resolved disputes with vendors, universities, technical assistance providers, nonprofit partners, researchers. \hfill 2014-2024
-
-- Led team of five analysts in the design/implementation of complex, high-stakes workflows. \hfill 2021-2024
-
-- Led day-to-day financial management, 12 FTE, and program implementation for $60.3 million in federal & matching expenditures under three federal discretionary grants.  \hfill 2014-2021
-
-- Authored 20 program compliance reports to federal agencies: budget-to-actual, SWOT narrative of implementation, and metrics from 70+ datasets covering grant outcomes.   \hfill 2014-2021
-
-- Conducted monthly financial review and reconciliation across 8 cost centers to ensure alignment with federal code, as well as GAAP, GASB, and state regulations (FASRG) for government accounting. \hfill 2014-2021
+- Lorem ipsum sit dolor amet \hfill Summer 2025 
 
 - Project lead for seven-figure agreement with [NASA Johnson Space Center](https://www.nasa.gov/learning-resources-for-educators/); handled contracts, POs, work schedules and IT credentials to connect teachers with curriculum and job-embedded coaching. \hfill 2018-2021
 
-## **Nonprofits in Tennessee and Colorado \hfill 2005-2014**
+## **PREVIOUS EXPERIENCE**
+\hrule
+**Metro Nashville Public Schools** \hfill **Nashville, TN**
+Summer Associate for Research and Policy \hfill May - July 2014
 
-<!-- Summer Associate for Research and Policy, *Metro Nashville Public Schools* \hfill 2014 -->
-
-Practicum Intern for Nashville Promise Neighborhood Grant, *Martha O'Bryan Center* \hfill 2013-2014
+**Nashville Promise Neighborhood at Martha O'Bryan Center** \hfill Jan 2013 - May 2014
+*Practicum Intern* \hfill Jan 2013 - May 2014
 
 Graduate Research Assistant & Program Evaluation Associate, *Vanderbilt University* \hfill 2012-2014
 
@@ -93,13 +82,18 @@ Bachelor of Arts, *cum laude* \hfill University of Notre Dame, 3.78 GPA
 
 <!-- - Double major in Theology and Music -->
 
-<!-- # Technical Proficiencies -->
-<!-- \hrule -->
-<!-- \begin{tabular}{ p{4cm}  p{1.5cm}  p{4cm}  p{1.5cm}  } -->
-<!-- R                   & 5 of 5  & Git, GitHub & 4 of 5 \\ -->
-<!-- Excel, PowerQuery   & 5 of 5  & Stata       & 4 of 5 \\ -->
-<!-- PowerSchool SIS     & 5 of 5  & Rmd, Quarto, LaTeX  & 3 of 5 \\  -->
-<!-- SharePoint Admin    & 5 of 5  & PowerBI, Tableau & 3 of 5  \\ -->
-<!-- Qualtrics PowerUser & 4 of 5  & Python      & 2 of 5 \\ -->
-<!-- PeopleSoft, SAP ERP & 4 of 5 & SQL      & 2 of 5 \\ -->
-<!-- \end{tabular} -->
+# Technical Skills
+\hrule
+**Programming & Data Tools:** R, Python, SQL, Stata, DAX, RStudio/Posit, Rmd, Quarto, LaTeX, Git, GitHub, ETL (Extract, Transform, Load), Relational Databases, Database Administration, Database Systems, Databases, Monte Carlo Simulation Modeling, k-means Clustering, Multivariate Modeling, Machine Learning, Statistical Analysis, Statistics, Econometrics, Large-scale Data Analysis, Data Modeling, Metadata 
+
+**Business Intelligence, Reporting & Visualization:** Power BI, Tableau, ArcGIS, Google Earth, Excel, PowerQuery, Microsoft Excel, Spreadsheets, Reporting Requirements, Presentations
+
+**Enterprise & Administrative Systems:** PowerSchool SIS, SharePoint Administration, PeopleSoft, SAP ERP, Qualtrics, Microsoft Office, Lucidchart, Visio, MS Project, Jira
+
+**Research, Evaluation & Analytics Methodologies:** Randomized Controlled Trials (RCTs), Causal Inference, Cohort Analysis, Continuous Improvement, Forecast Modeling, Program Evaluation, Program Assessment, Primary Research, Logic Models, Data Science, Data Analytics, Data Interpretation, Data Manipulation, Data Strategies, Data Systems
+
+**Financial, Regulatory & Compliance Frameworks:** Federal Grants Management (USDE 84.165A, 84.374A, 84.374B), Education Department General Administrative Regulations (EDGAR) at 2 CFR & 34 CFR, GAAP, GASB, FASRG (Texas), Family Educational Rights and Privacy Act (FERPA) at 34 CFR § 99, Children’s Online Privacy Protection Act (COPPA) at 16 CFR § 312, Privacy Regulations, Legal Requirements, Data Privacy, Data Retention, National Student Data Privacy Agreement (NSDPA)
+
+**Data Governance & Operations:** Data Governance, Data Integrity, Data Management, Quality Assurance, Internal Controls Design, Research Approval Protocols, Compilation
+
+**Leadership & Professional Competencies:** Leadership, Team Management, Project Management, Policy Analysis, Policy Writing, Business Process, Business Insights, Client Relations, Community Impact, Problem Solving, Written Communication, Process Mapping
